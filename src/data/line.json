@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Серия «Coature»",
+    "slug": "coature",
+    "img_path": "https://cdn.shopify.com/s/files/1/1024/1017/files/Coature_PAGE_banner_5_504bbd14-e2ca-443a-8131-f580967210d5.jpg"
+  },
+  {
+    "title": "Серия «Vanity»",
+    "slug": "vanity",
+    "img_path": "https://cdn.shopify.com/s/files/1/1024/1017/files/VS_PAGE_banner_5.jpg"
+  },
+  {
+    "title": "Серия «Salon Elements»",
+    "slug": "salon",
+    "img_path": "https://cdn.shopify.com/s/files/1/1024/1017/files/SE_PAGE_banner.jpg"
+  },
+  {
+    "title": "Серия «Everyday»",
+    "slug": "everyday",
+    "img_path": "https://cdn.shopify.com/s/files/1/1024/1017/files/EE_PAGE_banner_5.jpg"
+  },
+  {
+    "title": "Серия «Naturaluxury Everyday»",
+    "slug": "naturaluxury-everyday",
+    "img_path": "https://cdn.shopify.com/s/files/1/1024/1017/files/ENL_PAGE_banner_7_942d1659-4656-4901-a3a6-9bb2290b2e97.jpg"
+  }
+]

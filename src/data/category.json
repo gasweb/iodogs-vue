@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Шампуни",
+    "slug": "shampoo"
+  },
+  {
+    "title": "Кондиционеры",
+    "slug": "conditioners"
+  },
+  {
+    "title": "Спреи для грумминга",
+    "slug": "spray"
+  },
+  {
+    "title": "Добавки для шерсти",
+    "slug": "supplements"
+  },
+  {
+    "title": "Средства для укладки",
+    "slug": "styling"
+  },
+  {
+    "title": "Дезодоранты",
+    "slug": "replascent"
+  }
+]
