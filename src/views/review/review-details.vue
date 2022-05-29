@@ -8,6 +8,7 @@
       <BreedDetails :breed="getBreedBySlug(review.breed_slug)" />
     </div>
   </div>
+  <hr />
 </template>
 
 <script lang="ts">

@@ -34,10 +34,25 @@ const store = createStore({
         (product) => product.solutions != undefined && product.solutions.includes(solution)
       )
     },
+    getProductsByBreedSlug: (state) => (breedSlug: string) => {
+      const breed = state.breeds.find((breed) => breed.slug === breedSlug)
+      if (breed === undefined) {
+        return []
+      }
+      return state.catalog.filter(
+        (product) => breed.products != null && breed.products.includes(product.slug)
+      )
+    },
+    getProductBySlug: (state) => (productSlug: string) => {
+      return state.catalog.find((product) => product.slug === productSlug)
+    },
     getReviewsByProduct: (state) => (productSlug: string) => {
       return state.reviews.filter(
         (review) => review.products != null && review.products.includes(productSlug)
       )
+    },
+    getReviewsByBreedSlug: (state) => (breedSlug: string) => {
+      return state.reviews.filter((review) => review.breed_slug === breedSlug)
     },
     getRandomAphorism: (state) => () => {
       return state.aphorisms[Math.floor(Math.random() * state.aphorisms.length)]
@@ -50,9 +65,6 @@ const store = createStore({
     },
     getSolutionBySlug: (state) => (solutionSlug: string) => {
       return state.solutions.find((solution) => solution.slug === solutionSlug)
-    },
-    getProductBySlug: (state) => (productSlug: string) => {
-      return state.catalog.find((product) => product.slug === productSlug)
     },
     getBreedBySlug: (state) => (breedSlug: string) => {
       return state.breeds.find((breed) => breed.slug === breedSlug)

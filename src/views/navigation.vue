@@ -12,13 +12,13 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="nav-home-id">
           <li class="dropdown-item">
-            <router-link to="/brand"> История бренда </router-link>
+            <router-link to="/brand" class="dropdown-item"> История бренда </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/ingredients"> Ингредиенты </router-link>
+            <router-link to="/ingredients" class="dropdown-item"> Ингредиенты </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/faq"> Вопросы и ответы </router-link>
+            <router-link to="/faq" class="dropdown-item"> Вопросы и ответы </router-link>
           </li>
         </ul>
       </li>
@@ -33,19 +33,25 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="nav-catalog-id">
           <li class="dropdown-item">
-            <router-link to="/catalog/shampoo"> Шампуни </router-link>
+            <router-link to="/catalog/shampoo" class="dropdown-item"> Шампуни </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/catalog/conditioners"> Кондиционеры </router-link>
+            <router-link to="/catalog/conditioners" class="dropdown-item">
+              Кондиционеры
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/catalog/spray"> Спреи для грумминга </router-link>
+            <router-link to="/catalog/spray" class="dropdown-item">
+              Спреи для грумминга
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/catalog/styling"> Средства для укладки </router-link>
+            <router-link to="/catalog/styling" class="dropdown-item">
+              Средства для укладки
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/catalog/replascent"> Дезодоранты </router-link>
+            <router-link to="/catalog/replascent" class="dropdown-item"> Дезодоранты </router-link>
           </li>
         </ul>
       </li>
@@ -60,19 +66,21 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="nav-series-id">
           <li class="dropdown-item">
-            <router-link to="/line/coature"> Coature </router-link>
+            <router-link to="/line/coature" class="dropdown-item"> Coature </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/line/vanity"> Vanity </router-link>
+            <router-link to="/line/vanity" class="dropdown-item"> Vanity </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/line/salon"> Salon </router-link>
+            <router-link to="/line/salon" class="dropdown-item"> Salon </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/line/everyday">Everyday </router-link>
+            <router-link to="/line/everyday" class="dropdown-item">Everyday </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/line/naturaluxury-everyday"> Naturaluxury Everyday </router-link>
+            <router-link to="/line/naturaluxury-everyday" class="dropdown-item">
+              Naturaluxury Everyday
+            </router-link>
           </li>
         </ul>
       </li>
@@ -87,30 +95,38 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="nav-solutions-id">
           <li class="dropdown-item">
-            <router-link to="/breed"> Для породы </router-link>
+            <router-link to="/breed" class="dropdown-item"> Для породы </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/shedding"> Выпадение шерсти </router-link>
+            <router-link to="/solution/shedding" class="dropdown-item">
+              Выпадение шерсти
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/itchy-flaky-skin"> Зудящая, шелушащаяся кожа </router-link>
+            <router-link to="/solution/itchy-flaky-skin" class="dropdown-item">
+              Зудящая, шелушащаяся кожа
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/undesirable-odor">Нежелательный запах </router-link>
+            <router-link to="/solution/undesirable-odor" class="dropdown-item"
+              >Нежелательный запах
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/allergies"> Аллергии </router-link>
+            <router-link to="/solution/allergies" class="dropdown-item"> Аллергии </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/thin-lifeless-hair">
+            <router-link to="/solution/thin-lifeless-hair" class="dropdown-item">
               Тонкая, безжизненная шерсть
             </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/line/solution/dull-coat"> Тусклая шерсть </router-link>
+            <router-link to="/solution/dull-coat" class="dropdown-item">
+              Тусклая шерсть
+            </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/static-flyaways">
+            <router-link to="/solution/static-flyaways" class="dropdown-item">
               Наэлектризованная, непослушная шерсть
             </router-link>
           </li>
@@ -127,26 +143,31 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="nav-education-id">
           <li class="dropdown-item">
-            <router-link to="/bathe-basic"> Основы купания </router-link>
+            <router-link to="/bathe-basic" class="dropdown-item"> Основы купания </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/dry-basic"> Основы сушки </router-link>
+            <router-link to="/dry-basic" class="dropdown-item"> Основы сушки </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/myths"> Разрушаем мифы </router-link>
+            <router-link to="/myths" class="dropdown-item"> Разрушаем мифы </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/do-dont">Правила ухода за собакой </router-link>
+            <router-link to="/do-dont" class="dropdown-item">Правила ухода за собакой </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/puppy"> Уход за щенками </router-link>
+            <router-link to="/puppy" class="dropdown-item"> Уход за щенками </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/coat-types"> Типы шерсти </router-link>
+            <router-link to="/coat-types" class="dropdown-item"> Типы шерсти </router-link>
           </li>
         </ul>
       </li>
-      <router-link v-slot="{ href, navigate, isActive, isExactActive }" to="/buy" custom>
+      <router-link
+        v-slot="{ href, navigate, isActive, isExactActive }"
+        to="/buy"
+        class="dropdown-item"
+        custom
+      >
         <li
           :class="[
             'nav-item',

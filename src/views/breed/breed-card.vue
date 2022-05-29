@@ -1,15 +1,15 @@
 <template>
-  <a :href="getBreedURL()" class="">
-    <img :src="getCoverURL()" alt="" style="width: 200px" class="img-fluid rounded" /> </a
-  ><br />
-  <a :href="getBreedURL()" class=""> {{ breed.rus_title }} </a>
+  <figure class="center">
+    <img :src="getCoverURL()" alt="" class="figure-img img-fluid rounded" />
+    <figcaption class="">{{ breed.rus_title }}</figcaption>
+  </figure>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'BreedDetails',
+  name: 'BreedCard',
   props: {
     breed: {
       type: [Object],
@@ -24,9 +24,6 @@ export default defineComponent({
         return this.breed.cover
       }
       return '/no-breed.png'
-    },
-    getBreedURL() {
-      return '/breed/' + this.breed.slug
     },
   },
 })

@@ -10,17 +10,27 @@
         </p>
       </div>
 
-      <div id="myth" class="panel-group">
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-1" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Купание собаки вредно для его кожи»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-1" class="panel-collapse collapse">
-            <div class="panel-body">
+      <div id="accordion" class="accordion">
+        <div class="accordion-item">
+          <h2 id="myth-1-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-1"
+              aria-expanded="true"
+              aria-controls="myth-1"
+            >
+              «Купание собаки вредно для его кожи»
+            </button>
+          </h2>
+          <div
+            id="myth-1"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-1-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Это является одним из самых больших мифов. В Isle of Dogs мы понимаем, что нет
                 ничего более далекого от истины, чем это утверждение. Есть объяснение тому, как этот
@@ -43,16 +53,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-2" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >Если шерсть вашей собаки безжизненна, то вы не сможете оживить шерстяной покров</a
-              >
-            </h4>
-          </div>
-          <div id="myth-2" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-2-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-2"
+              aria-expanded="true"
+              aria-controls="myth-2"
+            >
+              «Если шерсть вашей собаки безжизненна, то вы не сможете оживить шерстяной покров»
+            </button>
+          </h2>
+          <div
+            id="myth-2"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-2-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Но Вы можете стимулировать рост здоровой шерсти из здоровой кожи – так же, как люди.
                 Не надо ожидать эффекта от применения наших спреев за одну ночь, однако
@@ -64,16 +84,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-3" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Продукты по уходу за шерстью не должны содержать спирт»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-3" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-3-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-3"
+              aria-expanded="true"
+              aria-controls="myth-3"
+            >
+              «Продукты по уходу за шерстью не должны содержать спирт»
+            </button>
+          </h2>
+          <div
+            id="myth-3"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-3-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Это еще один миф, который прочно утвердился на груминг арене. Конечно, впитывание
                 шерстью собаки спирта не рекомендуется. Однако, спирт является единственным
@@ -84,17 +114,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-4" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Шерсть вашей собаки может адаптироваться к шампуню, поэтому вам нужно чередовать
-                их»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-4" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-4-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-4"
+              aria-expanded="true"
+              aria-controls="myth-4"
+            >
+              «Шерсть вашей собаки может адаптироваться к шампуню, поэтому вам нужно чередовать их»
+            </button>
+          </h2>
+          <div
+            id="myth-4"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-4-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Это миф построен вокруг зерна истины. Шерсть не приспосабливается к шампуням, но
                 некоторые шампуни, с кондиционировавшими компонентами, накапливаются в шерсти в
@@ -109,17 +148,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-5" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Продукты с SPF комплексом защитит шерсть от вредного воздействия солнечных
-                лучей»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-5" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-5-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-5"
+              aria-expanded="true"
+              aria-controls="myth-5"
+            >
+              «Продукты с SPF комплексом защитит шерсть от вредного воздействия солнечных лучей»
+            </button>
+          </h2>
+          <div
+            id="myth-5"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-5-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Нет достаточно достоверных или непротиворечивых способов сохранить необходимые
                 защитные компоненты прикреплённые к стержня волоса. Ополаскивание, стайлинг и мытьё
@@ -129,16 +177,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-6" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Собаки с жирной кожей не должны использовать кондиционер»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-6" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-6-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-6"
+              aria-expanded="true"
+              aria-controls="myth-6"
+            >
+              «Собаки с жирной кожей не должны использовать кондиционер»
+            </button>
+          </h2>
+          <div
+            id="myth-6"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-6-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Это не всегда верно. Кожа собаки может быть жирная, а шерсть быть сухой и требовать
                 увлажнения.
@@ -146,16 +204,26 @@
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-7" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Чем больше пены, тем чище шерсть»</a
-              >
-            </h4>
-          </div>
-          <div id="myth-7" class="panel-collapse collapse">
-            <div class="panel-body">
+        <div class="accordion-item">
+          <h2 id="myth-7-heading" class="accordion-header">
+            <button
+              class="accordion-button"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#myth-7"
+              aria-expanded="true"
+              aria-controls="myth-7"
+            >
+              «Чем больше пены, тем чище шерсть»
+            </button>
+          </h2>
+          <div
+            id="myth-7"
+            class="accordion-collapse collapse"
+            aria-labelledby="myth-7-heading"
+            data-bs-parent="#accordion"
+          >
+            <div class="accordion-body">
               <p>
                 Ложь. На самом деле пена не связана с очищающими компонентами шампуня.
                 Пенообразующие компоненты добавляются в шампунь для эмоциональной привлекательности,
@@ -165,22 +233,32 @@
               </p>
             </div>
           </div>
-        </div>
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a href="#myth-8" class="collapsed" data-parent="#myth" data-toggle="collapse"
-                >«Шампуни без слез более мягкие, чем другие виды шампуня»</a
+          <div class="accordion-item">
+            <h2 id="myth-8-heading" class="accordion-header">
+              <button
+                class="accordion-button"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#myth-8"
+                aria-expanded="true"
+                aria-controls="myth-8"
               >
-            </h4>
-          </div>
-          <div id="myth-8" class="panel-collapse collapse">
-            <div class="panel-body">
-              <p>
-                Частично верно. Очищающие агенты в детских шампунях обладают меньшей способностью
-                очистки. Но если они не вымоют грязь из шерсти Вашей собаки, остатки могут вызвать
-                зуд и сухость.
-              </p>
+                «Шампуни без слез более мягкие, чем другие виды шампуня»
+              </button>
+            </h2>
+            <div
+              id="myth-8"
+              class="accordion-collapse collapse"
+              aria-labelledby="myth-8-heading"
+              data-bs-parent="#accordion"
+            >
+              <div class="accordion-body">
+                <p>
+                  Частично верно. Очищающие агенты в детских шампунях обладают меньшей способностью
+                  очистки. Но если они не вымоют грязь из шерсти Вашей собаки, остатки могут вызвать
+                  зуд и сухость.
+                </p>
+              </div>
             </div>
           </div>
         </div>
