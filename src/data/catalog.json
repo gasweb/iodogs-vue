@@ -3,32 +3,35 @@
     "application": "Хорошо намочите шерсть, нанесите шампунь, хорошо пропитайте, помогая руками тщательно распределиться по всей шерсти. Оставьте шампунь на 2-5 минут, а затем тщательно смойте. Используйте кондиционер №50 или №51, затем промойте и просушите. Если шерсть Вашей собаки очень грязная, то может потребоваться повторное мытье.",
     "card_text": "Этот шампунь для собак уникален тем, что удалось растворить масло Вечерней примулы в воде и при этом довести концентрацию до 1%.\r\nТаким образом, шампунь, вымывая естественные масла из шерсти, заменит их маслом Вечерней Примулы, необходимым для здоровой и блестящей шерсти.\r\nМасло Вечерней Примулы является успокаивающим по своей природе и помогает в выздоровлении сухой и шелушащейся кожи.\r\nЕсли шерсть имеет нормальное, правильное содержание масел, то она будет хорошо противостоять попаданию и закреплению частичек грязи, отталкивая их, будет меньше пачкаться и не будет страдать от внешних атмосферных и тепловых воздействий, сохраняя надолго красивый, здоровый вид.",
     "category": "shampoo",
+    "solutions": [
+      "allergies", "dull-coat"
+    ],
     "eng_title": "No 10 Evening Primrose Oil Shampoo",
     "images":
     [
       {
-        "s3_file_path": "upload/product1/8f24d4d5fc4bc8640cfca3623ca3d8251470390390.jpg",
-        "s3_small_file_path": "upload/product1/small_8f24d4d5fc4bc8640cfca3623ca3d8251470390390.jpg",
+        "s3_file_path": "/upload/product1/8f24d4d5fc4bc8640cfca3623ca3d8251470390390.jpg",
+        "s3_small_file_path": "/upload/product1/small_8f24d4d5fc4bc8640cfca3623ca3d8251470390390.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product1/6363c4a56cf364b5c38aea81ea9858fd1470390413.jpg",
-        "s3_small_file_path": "upload/product1/small_6363c4a56cf364b5c38aea81ea9858fd1470390413.jpg",
+        "s3_file_path": "/upload/product1/6363c4a56cf364b5c38aea81ea9858fd1470390413.jpg",
+        "s3_small_file_path": "/upload/product1/small_6363c4a56cf364b5c38aea81ea9858fd1470390413.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product1/6b737b8a0b90258de942469eefcb2d961470390413.jpg",
-        "s3_small_file_path": "upload/product1/small_6b737b8a0b90258de942469eefcb2d961470390413.jpg",
+        "s3_file_path": "/upload/product1/6b737b8a0b90258de942469eefcb2d961470390413.jpg",
+        "s3_small_file_path": "/upload/product1/small_6b737b8a0b90258de942469eefcb2d961470390413.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product1/9bbc9d5f27e2171bf74aa97cc84c59e61470390413.jpg",
-        "s3_small_file_path": "upload/product1/small_9bbc9d5f27e2171bf74aa97cc84c59e61470390413.jpg",
+        "s3_file_path": "/upload/product1/9bbc9d5f27e2171bf74aa97cc84c59e61470390413.jpg",
+        "s3_small_file_path": "/upload/product1/small_9bbc9d5f27e2171bf74aa97cc84c59e61470390413.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product1/4907cc03770c9acab882913381e137201471010181.jpg",
-        "s3_small_file_path": "upload/product1/small_4907cc03770c9acab882913381e137201471010181.jpg",
+        "s3_file_path": "/upload/product1/4907cc03770c9acab882913381e137201471010181.jpg",
+        "s3_small_file_path": "/upload/product1/small_4907cc03770c9acab882913381e137201471010181.jpg",
         "sort_order": 10
       }
     ],
@@ -47,26 +50,29 @@
     "card_text": "Данный шампунь содержит в три раза больше  масла Вечерней Примулы, чем шампунь №10. Этот лечебный, питательный продукт, заботящийся о шерсти собаки, позволяет избавиться от зуда, шелушащейся кожи и восстановить здоровую, естественную красоту волос. Богат жирными кислотами Омега 6. Активным ингредиентом, делающим этот продукт уникальным, является эффективное масло Вечерней Примулы, предписанное в клинических исследованиях для исправления сухой кожи, не закупоривающее, но стимулирующее структурные изменения в коже. Масло Вечерней Примулы богато гамма - линолевой кислотой, которая была в ходе научных исследований определена как наиболее важная жирная кислота в балансировании простагландинов (регулирующая молекула, влияющая на воспалительные процессы) у собак с аллергическими признаками. Приводит к улучшению гидратации кожи, защите кожи от внешних воздействий и помогает при воспалительных процессах. ",
     "category": "shampoo",
     "eng_title": "№ 12 High Grade Evening Primrose Oil Shampoo",
+    "solutions": [
+      "itchy-flaky-skin", "allergies", "dull-coat", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product2/83134f79894cbabdbbb3ff39c81e9cc41470390250.jpg",
-        "s3_small_file_path": "upload/product2/small_83134f79894cbabdbbb3ff39c81e9cc41470390250.jpg",
+        "s3_file_path": "/upload/product2/83134f79894cbabdbbb3ff39c81e9cc41470390250.jpg",
+        "s3_small_file_path": "/upload/product2/small_83134f79894cbabdbbb3ff39c81e9cc41470390250.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product2/4881a4636f7b35009d738e7040b516281470390251.jpg",
-        "s3_small_file_path": "upload/product2/small_4881a4636f7b35009d738e7040b516281470390251.jpg",
+        "s3_file_path": "/upload/product2/4881a4636f7b35009d738e7040b516281470390251.jpg",
+        "s3_small_file_path": "/upload/product2/small_4881a4636f7b35009d738e7040b516281470390251.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product2/8bccf9aa441bb7c70c589c39b9ac0f961470390251.jpg",
-        "s3_small_file_path": "upload/product2/small_8bccf9aa441bb7c70c589c39b9ac0f961470390251.jpg",
+        "s3_file_path": "/upload/product2/8bccf9aa441bb7c70c589c39b9ac0f961470390251.jpg",
+        "s3_small_file_path": "/upload/product2/small_8bccf9aa441bb7c70c589c39b9ac0f961470390251.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product2/106378016dce6b37f9cf7370280542b71470390251.jpg",
-        "s3_small_file_path": "upload/product2/small_106378016dce6b37f9cf7370280542b71470390251.jpg",
+        "s3_file_path": "/upload/product2/106378016dce6b37f9cf7370280542b71470390251.jpg",
+        "s3_small_file_path": "/upload/product2/small_106378016dce6b37f9cf7370280542b71470390251.jpg",
         "sort_order": 100
       }
     ],
@@ -88,43 +94,43 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product3/a76b4b161c1ecbaadf6b96af7874303f1470390537.jpg",
-        "s3_small_file_path": "upload/product3/small_a76b4b161c1ecbaadf6b96af7874303f1470390537.jpg",
+        "s3_file_path": "/upload/product3/a76b4b161c1ecbaadf6b96af7874303f1470390537.jpg",
+        "s3_small_file_path": "/upload/product3/small_a76b4b161c1ecbaadf6b96af7874303f1470390537.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/a78386172e45726e020b1ed93c57971c1470390541.jpg",
-        "s3_small_file_path": "upload/product3/small_a78386172e45726e020b1ed93c57971c1470390541.jpg",
+        "s3_file_path": "/upload/product3/a78386172e45726e020b1ed93c57971c1470390541.jpg",
+        "s3_small_file_path": "/upload/product3/small_a78386172e45726e020b1ed93c57971c1470390541.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/72420598cd4ced3abfabf1d58d9519201470390541.jpg",
-        "s3_small_file_path": "upload/product3/small_72420598cd4ced3abfabf1d58d9519201470390541.jpg",
+        "s3_file_path": "/upload/product3/72420598cd4ced3abfabf1d58d9519201470390541.jpg",
+        "s3_small_file_path": "/upload/product3/small_72420598cd4ced3abfabf1d58d9519201470390541.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/e753214b5e68fec13fbbb57d1fe3cbf11470390541.jpg",
-        "s3_small_file_path": "upload/product3/small_e753214b5e68fec13fbbb57d1fe3cbf11470390541.jpg",
+        "s3_file_path": "/upload/product3/e753214b5e68fec13fbbb57d1fe3cbf11470390541.jpg",
+        "s3_small_file_path": "/upload/product3/small_e753214b5e68fec13fbbb57d1fe3cbf11470390541.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/2ffcee46b6f8e9d380b8177321458b8e1470390625.jpg",
-        "s3_small_file_path": "upload/product3/small_2ffcee46b6f8e9d380b8177321458b8e1470390625.jpg",
+        "s3_file_path": "/upload/product3/2ffcee46b6f8e9d380b8177321458b8e1470390625.jpg",
+        "s3_small_file_path": "/upload/product3/small_2ffcee46b6f8e9d380b8177321458b8e1470390625.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/4862f4a106bfd9dcde5816ea75c9ac031470390625.jpg",
-        "s3_small_file_path": "upload/product3/small_4862f4a106bfd9dcde5816ea75c9ac031470390625.jpg",
+        "s3_file_path": "/upload/product3/4862f4a106bfd9dcde5816ea75c9ac031470390625.jpg",
+        "s3_small_file_path": "/upload/product3/small_4862f4a106bfd9dcde5816ea75c9ac031470390625.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product3/5f61d3bc2806ce9d1e85c1ea63d8724d1470390626.jpg",
-        "s3_small_file_path": "upload/product3/small_5f61d3bc2806ce9d1e85c1ea63d8724d1470390626.jpg",
+        "s3_file_path": "/upload/product3/5f61d3bc2806ce9d1e85c1ea63d8724d1470390626.jpg",
+        "s3_small_file_path": "/upload/product3/small_5f61d3bc2806ce9d1e85c1ea63d8724d1470390626.jpg",
         "sort_order": 10
       },
       {
-        "s3_file_path": "upload/product3/e88e1c06966098c27ee43d1f964c644c1470390649.jpg",
-        "s3_small_file_path": "upload/product3/small_e88e1c06966098c27ee43d1f964c644c1470390649.jpg",
+        "s3_file_path": "/upload/product3/e88e1c06966098c27ee43d1f964c644c1470390649.jpg",
+        "s3_small_file_path": "/upload/product3/small_e88e1c06966098c27ee43d1f964c644c1470390649.jpg",
         "sort_order": 80
       }
     ],
@@ -146,18 +152,18 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product4/1e8f1f08d8708331830fe2e566209a4a1470390782.jpg",
-        "s3_small_file_path": "upload/product4/small_1e8f1f08d8708331830fe2e566209a4a1470390782.jpg",
+        "s3_file_path": "/upload/product4/1e8f1f08d8708331830fe2e566209a4a1470390782.jpg",
+        "s3_small_file_path": "/upload/product4/small_1e8f1f08d8708331830fe2e566209a4a1470390782.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product4/e54da231292bffbc163bab9e2f149c3f1470390782.jpg",
-        "s3_small_file_path": "upload/product4/small_e54da231292bffbc163bab9e2f149c3f1470390782.jpg",
+        "s3_file_path": "/upload/product4/e54da231292bffbc163bab9e2f149c3f1470390782.jpg",
+        "s3_small_file_path": "/upload/product4/small_e54da231292bffbc163bab9e2f149c3f1470390782.jpg",
         "sort_order": 10
       },
       {
-        "s3_file_path": "upload/product4/a19305b9e2ac6beab25dcc8ad59f1fd11470390782.jpg",
-        "s3_small_file_path": "upload/product4/small_a19305b9e2ac6beab25dcc8ad59f1fd11470390782.jpg",
+        "s3_file_path": "/upload/product4/a19305b9e2ac6beab25dcc8ad59f1fd11470390782.jpg",
+        "s3_small_file_path": "/upload/product4/small_a19305b9e2ac6beab25dcc8ad59f1fd11470390782.jpg",
         "sort_order": 100
       }
     ],
@@ -179,13 +185,13 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product5/a3e825d697106186e1c39ffd343a0faa1470391019.jpg",
-        "s3_small_file_path": "upload/product5/small_a3e825d697106186e1c39ffd343a0faa1470391019.jpg",
+        "s3_file_path": "/upload/product5/a3e825d697106186e1c39ffd343a0faa1470391019.jpg",
+        "s3_small_file_path": "/upload/product5/small_a3e825d697106186e1c39ffd343a0faa1470391019.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product5/8b477a19ffb279ba8f7fb0c55eda3a1c1470391020.jpg",
-        "s3_small_file_path": "upload/product5/small_8b477a19ffb279ba8f7fb0c55eda3a1c1470391020.jpg",
+        "s3_file_path": "/upload/product5/8b477a19ffb279ba8f7fb0c55eda3a1c1470391020.jpg",
+        "s3_small_file_path": "/upload/product5/small_8b477a19ffb279ba8f7fb0c55eda3a1c1470391020.jpg",
         "sort_order": 100
       }
     ],
@@ -204,26 +210,29 @@
     "card_text": "Маточное молочко является питательным веществом, которым рабочие пчелы кормят королеву пчел. Таким образом, он содержит не только натуральные жиры, но и целый ряд чистых белков. Эти белки попадают в слой эпидермиса корней волос, добавляя объем текстуру. Этот шампунь великолепно подходит для сук потерявших шерсть после родов, и собакам после линьки. Этот шампунь можно комбинировать с шампунями усиливающими окраску (№ 16, № 17 и № 18), для того чтобы увеличением объема и усилить цвета. ",
     "category": "shampoo",
     "eng_title": "№ 20 Royal Jelly Shampoo",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product5/801f98689a7266fe95db81f1d18d31961470390818.jpg",
-        "s3_small_file_path": "upload/product5/small_801f98689a7266fe95db81f1d18d31961470390818.jpg",
+        "s3_file_path": "/upload/product5/801f98689a7266fe95db81f1d18d31961470390818.jpg",
+        "s3_small_file_path": "/upload/product5/small_801f98689a7266fe95db81f1d18d31961470390818.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product5/d3ff16878790178f1b15ea756282d1971470390819.jpg",
-        "s3_small_file_path": "upload/product5/small_d3ff16878790178f1b15ea756282d1971470390819.jpg",
+        "s3_file_path": "/upload/product5/d3ff16878790178f1b15ea756282d1971470390819.jpg",
+        "s3_small_file_path": "/upload/product5/small_d3ff16878790178f1b15ea756282d1971470390819.jpg",
         "sort_order": 10
       },
       {
-        "s3_file_path": "upload/product5/bac04c2318085a84a877159a2e705a861470390819.jpg",
-        "s3_small_file_path": "upload/product5/small_bac04c2318085a84a877159a2e705a861470390819.jpg",
+        "s3_file_path": "/upload/product5/bac04c2318085a84a877159a2e705a861470390819.jpg",
+        "s3_small_file_path": "/upload/product5/small_bac04c2318085a84a877159a2e705a861470390819.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product5/e729d90e50b16a06a011b9240ba0d4b21470390819.jpg",
-        "s3_small_file_path": "upload/product5/small_e729d90e50b16a06a011b9240ba0d4b21470390819.jpg",
+        "s3_file_path": "/upload/product5/e729d90e50b16a06a011b9240ba0d4b21470390819.jpg",
+        "s3_small_file_path": "/upload/product5/small_e729d90e50b16a06a011b9240ba0d4b21470390819.jpg",
         "sort_order": 100
       }
     ],
@@ -245,28 +254,28 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product7/9cd8297c7c16e2c88e0d07594013fac31470391103.jpg",
-        "s3_small_file_path": "upload/product7/small_9cd8297c7c16e2c88e0d07594013fac31470391103.jpg",
+        "s3_file_path": "/upload/product7/9cd8297c7c16e2c88e0d07594013fac31470391103.jpg",
+        "s3_small_file_path": "/upload/product7/small_9cd8297c7c16e2c88e0d07594013fac31470391103.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product7/f52c585eb46fcc5b84f9150140726f181470391104.jpg",
-        "s3_small_file_path": "upload/product7/small_f52c585eb46fcc5b84f9150140726f181470391104.jpg",
+        "s3_file_path": "/upload/product7/f52c585eb46fcc5b84f9150140726f181470391104.jpg",
+        "s3_small_file_path": "/upload/product7/small_f52c585eb46fcc5b84f9150140726f181470391104.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product7/9711aed90ef709c73ca7238613dfa52a1470391104.jpg",
-        "s3_small_file_path": "upload/product7/small_9711aed90ef709c73ca7238613dfa52a1470391104.jpg",
+        "s3_file_path": "/upload/product7/9711aed90ef709c73ca7238613dfa52a1470391104.jpg",
+        "s3_small_file_path": "/upload/product7/small_9711aed90ef709c73ca7238613dfa52a1470391104.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product7/030e959d20325aad0c456799c314e2121470391104.jpg",
-        "s3_small_file_path": "upload/product7/small_030e959d20325aad0c456799c314e2121470391104.jpg",
+        "s3_file_path": "/upload/product7/030e959d20325aad0c456799c314e2121470391104.jpg",
+        "s3_small_file_path": "/upload/product7/small_030e959d20325aad0c456799c314e2121470391104.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product7/c52e7bd1691f98d7574f2661081d02f41471011633.jpg",
-        "s3_small_file_path": "upload/product7/small_c52e7bd1691f98d7574f2661081d02f41471011633.jpg",
+        "s3_file_path": "/upload/product7/c52e7bd1691f98d7574f2661081d02f41471011633.jpg",
+        "s3_small_file_path": "/upload/product7/small_c52e7bd1691f98d7574f2661081d02f41471011633.jpg",
         "sort_order": 10
       }
     ],
@@ -285,11 +294,14 @@
     "card_text": "Для создания этого уникального травяного  Gloss шампуня мы использовали лепестки гибискуса sabdariffa,  собранного зимой. Этот метод заготовки гарантирует, что наша формула обеспечит максимальный блеск и натуральность. Высокая концентрация терапевтически успокоительных для кожи эфирных масел, в числе которых Итальянский Бергамот и Мадагаскарская Розовая Герань позволит Вам расширить горизонт достижений в уходе за шерстью вашей собаки. В результате вы получите невероятную мягкость и блеск, а в дополнение приятный ритуал связывающий вас и вашу собаку.",
     "category": "shampoo",
     "eng_title": "№32 Intensely Nourishing Gloss Shampoo",
+    "solutions": [
+      "itchy-flaky-skin", "allergies", "dull-coat"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product8/3d3d15539c8887156f93834635a538da1471010259.jpg",
-        "s3_small_file_path": "upload/product8/small_3d3d15539c8887156f93834635a538da1471010259.jpg",
+        "s3_file_path": "/upload/product8/3d3d15539c8887156f93834635a538da1471010259.jpg",
+        "s3_small_file_path": "/upload/product8/small_3d3d15539c8887156f93834635a538da1471010259.jpg",
         "sort_order": 100
       }
     ],
@@ -308,31 +320,34 @@
     "card_text": "Этот кондиционер содержит продукты кокоса, которые&nbsp;придадут шерсти вашей собаки блеск и здоровый вид.&nbsp;Сохраняет объем. Кондиционер закрывает слой кутикулы волосяного покрова, удерживая масла и влагу, попавшие из шампуней Isle Of Dogs на шерсть. Разводите кондиционер в соотношении 10:1 с водой или больше в зависимости от желательной жесткости шерсти.",
     "category": "conditioners",
     "eng_title": "№ 50 Light Management Conditioner",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product9/be88f7adf3364eb1740338332e2762d01470391143.jpg",
-        "s3_small_file_path": "upload/product9/small_be88f7adf3364eb1740338332e2762d01470391143.jpg",
+        "s3_file_path": "/upload/product9/be88f7adf3364eb1740338332e2762d01470391143.jpg",
+        "s3_small_file_path": "/upload/product9/small_be88f7adf3364eb1740338332e2762d01470391143.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product9/d2c345133a1e3ff113768f78570520061470391144.jpg",
-        "s3_small_file_path": "upload/product9/small_d2c345133a1e3ff113768f78570520061470391144.jpg",
+        "s3_file_path": "/upload/product9/d2c345133a1e3ff113768f78570520061470391144.jpg",
+        "s3_small_file_path": "/upload/product9/small_d2c345133a1e3ff113768f78570520061470391144.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product9/dfc37385ca8dd601657f8fc971dba62a1470391144.jpg",
-        "s3_small_file_path": "upload/product9/small_dfc37385ca8dd601657f8fc971dba62a1470391144.jpg",
+        "s3_file_path": "/upload/product9/dfc37385ca8dd601657f8fc971dba62a1470391144.jpg",
+        "s3_small_file_path": "/upload/product9/small_dfc37385ca8dd601657f8fc971dba62a1470391144.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product9/dcd26b4b22d0baaf52f1cd735cc4bd101470391144.jpg",
-        "s3_small_file_path": "upload/product9/small_dcd26b4b22d0baaf52f1cd735cc4bd101470391144.jpg",
+        "s3_file_path": "/upload/product9/dcd26b4b22d0baaf52f1cd735cc4bd101470391144.jpg",
+        "s3_small_file_path": "/upload/product9/small_dcd26b4b22d0baaf52f1cd735cc4bd101470391144.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product9/ce3601984f503ab6821d912dd11e3a571471011792.jpg",
-        "s3_small_file_path": "upload/product9/small_ce3601984f503ab6821d912dd11e3a571471011792.jpg",
+        "s3_file_path": "/upload/product9/ce3601984f503ab6821d912dd11e3a571471011792.jpg",
+        "s3_small_file_path": "/upload/product9/small_ce3601984f503ab6821d912dd11e3a571471011792.jpg",
         "sort_order": 10
       }
     ],
@@ -351,31 +366,34 @@
     "card_text": "Этот кондиционер немного тяжелее, чем другие наши легкие кондиционеры. Она закрывает слой кутикулы волосяного покрытия, делая шерсть более гладкой. Идеально подходит для сухой и тусклой шерсти, породам с двойной шерстью, а также для ниспадающей шерсти, которая должна свисать вниз. ",
     "category": "conditioners",
     "eng_title": "№ 51 Heavy Management Conditioner",
+    "solutions": [
+      "shedding", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product10/1f45d172761c11f7c5b03f662dc79cff1470391186.jpg",
-        "s3_small_file_path": "upload/product10/small_1f45d172761c11f7c5b03f662dc79cff1470391186.jpg",
+        "s3_file_path": "/upload/product10/1f45d172761c11f7c5b03f662dc79cff1470391186.jpg",
+        "s3_small_file_path": "/upload/product10/small_1f45d172761c11f7c5b03f662dc79cff1470391186.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product10/d24fdec3e2c85fc72aaedad6b39a57291470391186.jpg",
-        "s3_small_file_path": "upload/product10/small_d24fdec3e2c85fc72aaedad6b39a57291470391186.jpg",
+        "s3_file_path": "/upload/product10/d24fdec3e2c85fc72aaedad6b39a57291470391186.jpg",
+        "s3_small_file_path": "/upload/product10/small_d24fdec3e2c85fc72aaedad6b39a57291470391186.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product10/0d5230490ba30de84821ba1a2a31b29d1470391186.jpg",
-        "s3_small_file_path": "upload/product10/small_0d5230490ba30de84821ba1a2a31b29d1470391186.jpg",
+        "s3_file_path": "/upload/product10/0d5230490ba30de84821ba1a2a31b29d1470391186.jpg",
+        "s3_small_file_path": "/upload/product10/small_0d5230490ba30de84821ba1a2a31b29d1470391186.jpg",
         "sort_order": 80
       },
       {
-        "s3_file_path": "upload/product10/a8cad155ff1434b72b74a9eca9b5cd151470391187.jpg",
-        "s3_small_file_path": "upload/product10/small_a8cad155ff1434b72b74a9eca9b5cd151470391187.jpg",
+        "s3_file_path": "/upload/product10/a8cad155ff1434b72b74a9eca9b5cd151470391187.jpg",
+        "s3_small_file_path": "/upload/product10/small_a8cad155ff1434b72b74a9eca9b5cd151470391187.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product10/6af3d44760d895b257247d5dd6568fc51471011813.jpg",
-        "s3_small_file_path": "upload/product10/small_6af3d44760d895b257247d5dd6568fc51471011813.jpg",
+        "s3_file_path": "/upload/product10/6af3d44760d895b257247d5dd6568fc51471011813.jpg",
+        "s3_small_file_path": "/upload/product10/small_6af3d44760d895b257247d5dd6568fc51471011813.jpg",
         "sort_order": 10
       }
     ],
@@ -394,6 +412,9 @@
     "card_text": "Высокой концентрации, исключительно глубокого кондиционирования восстанавливаюший структуру и прочность всех типов волос, уменьшает ломкость и выпадение, а также эффективно предотвращает спутывание. Пшеничный протеин и витамины, богатые жирными кислотами придают природную красоту, всецело укрепляя здоровье волос. Основное питание для волос, которое должно применяться в качестве финишной обработки после каждого купания, даже если ваша собака имеет хорошее состояние шерсти.",
     "category": "conditioners",
     "eng_title": "№52 Intensely Nourishing Nutrient Masque",
+    "solutions": [
+      "itchy-flaky-skin", "allergies", "dull-coat", "static-flyaways"
+    ],
     "ingredients": "вода, бегентримониум-метосульфат (рапсовое масло) и цетиловый спирт (без ГМО продуктов), гидролизованные протеины пшеницы и олигосахарид пшеницы, пантенол (витамин В5) и гидролизованные протеины пшеницы и линолевая кислота, гиалуроновая кислота (растительного происхождения), сорбит (органичный увлажнитель), масло пшеницы обыкновенной (Зародышей пшеницы), масло китайского букуса (жожоба), токоферол (витамин Е), дегидрацетовая кислота, бензиловый спирт",
     "is_active": 1,
     "is_in_stock": 1,
@@ -409,11 +430,14 @@
     "card_text": "Кондиционирующий спрей содержащий масло Вечерней Примулы и растительные экстракты, которые позволяют успокоить кожу, предотвратить шелушение кожи и придать блеск любой шерсти. Этот продукт, увлажняет лучше, чем №63 и обладает более легким ароматом. Он отлично подходит для расчесывания в период между купаниями или между выставками, а так же пользуется большой популярностью среди заводчиков. ",
     "category": "spray",
     "eng_title": "№ 62 Evening Primrose Oil Conditioning Mist",
+    "solutions": [
+      "itchy-flaky-skin", "dull-coat", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product12/02c0e05649f489602b27527de8987a7a1471010596.jpg",
-        "s3_small_file_path": "upload/product12/small_02c0e05649f489602b27527de8987a7a1471010596.jpg",
+        "s3_file_path": "/upload/product12/02c0e05649f489602b27527de8987a7a1471010596.jpg",
+        "s3_small_file_path": "/upload/product12/small_02c0e05649f489602b27527de8987a7a1471010596.jpg",
         "sort_order": 100
       }
     ],
@@ -432,11 +456,14 @@
     "card_text": "Идеально подходит для собак с длинной шерстью и шерстью средней длины. Помогает распутывать шерсть и поддерживает ее в аккуратном и чистом состоянии. Остается на шерсти, чтобы предотвратить запутывание и образование колтунов, кроме того, не будет склеивать ее.",
     "category": "spray",
     "eng_title": "№ 63 Detangle Conditioning Mist",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product13/9b9e3924ebab0d0c51f3626e6d980f8b1471010610.jpg",
-        "s3_small_file_path": "upload/product13/small_9b9e3924ebab0d0c51f3626e6d980f8b1471010610.jpg",
+        "s3_file_path": "/upload/product13/9b9e3924ebab0d0c51f3626e6d980f8b1471010610.jpg",
+        "s3_small_file_path": "/upload/product13/small_9b9e3924ebab0d0c51f3626e6d980f8b1471010610.jpg",
         "sort_order": 100
       }
     ],
@@ -455,16 +482,19 @@
     "card_text": "Кондиционирующая пенка мусс или гель для укладки без каких либо аэрозолей, . Богатая питательным соевым белком, обеспечивает невероятный объем и облегчающий контроль за укладкой волос, не оставляя липкого остатка на шерсти. Она не сушит шерсть, но добавляет блеск. Прекрасно работает поверх Isle Thicken для создания максимального обьема.",
     "category": "styling",
     "eng_title": "Isle Hold ",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product14/652e7b3640123f5d96a2842d968509d11470401801.jpg",
-        "s3_small_file_path": "upload/product14/small_652e7b3640123f5d96a2842d968509d11470401801.jpg",
+        "s3_file_path": "/upload/product14/652e7b3640123f5d96a2842d968509d11470401801.jpg",
+        "s3_small_file_path": "/upload/product14/small_652e7b3640123f5d96a2842d968509d11470401801.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product14/5e11972f8cc5ff3b1b5961ce5c5f5a851471011449.jpg",
-        "s3_small_file_path": "upload/product14/small_5e11972f8cc5ff3b1b5961ce5c5f5a851471011449.jpg",
+        "s3_file_path": "/upload/product14/5e11972f8cc5ff3b1b5961ce5c5f5a851471011449.jpg",
+        "s3_small_file_path": "/upload/product14/small_5e11972f8cc5ff3b1b5961ce5c5f5a851471011449.jpg",
         "sort_order": 100
       }
     ],
@@ -483,11 +513,14 @@
     "card_text": "Без аэрозольный, богатый белком спрей придает структуру от корней волос, обеспечивает дополнительный объем и поднимает шерсть.\r\n\r\nЭтот продукт идеально подходит для пород, которые нуждаются в поднятой шерсти, такие как Пекинес, Пудель, Терьер, Шелти и Колли. Прекрасно работает для фиксации шерсти на холке для придания красивой линии верха. Прекрасное свойство этого продукта в том, что он наносится на корни волос и так же как и все наши другие продукты не оставляет ощущения липкости на ощупь. Так же, как Hold и Isle Style производится в экономичном исполнении.\r\n",
     "category": "styling",
     "eng_title": "Isle Lift",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product15/4100ab512dfb8873d46577edac98eb871470401814.jpg",
-        "s3_small_file_path": "upload/product15/small_4100ab512dfb8873d46577edac98eb871470401814.jpg",
+        "s3_file_path": "/upload/product15/4100ab512dfb8873d46577edac98eb871470401814.jpg",
+        "s3_small_file_path": "/upload/product15/small_4100ab512dfb8873d46577edac98eb871470401814.jpg",
         "sort_order": 100
       }
     ],
@@ -506,11 +539,14 @@
     "card_text": "Великолепный кондиционер для ниспадающей шерсти может быть разбавлен в бутылке для спрея и является фантастическим продуктом для завершающей отделки, устранения старых и поврежденных волос , а так же в качестве сильного антистатического средства. Продолжительное использование помогает исцелить сухие и поврежденные волосы, усиливая блеск с течением времени. Заводчики Английского Сеттера пришли к выводу, что распыление Isle Repair в местах попадания мочи на шерсть помогает защитить от окрашивания и предотвратить порчу.",
     "category": "styling",
     "eng_title": "Isle Repair",
+    "solutions": [
+      "dull-coat", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product16/60a6d91ad5d68aa2b8e7a058120e553a1470401823.jpg",
-        "s3_small_file_path": "upload/product16/small_60a6d91ad5d68aa2b8e7a058120e553a1470401823.jpg",
+        "s3_file_path": "/upload/product16/60a6d91ad5d68aa2b8e7a058120e553a1470401823.jpg",
+        "s3_small_file_path": "/upload/product16/small_60a6d91ad5d68aa2b8e7a058120e553a1470401823.jpg",
         "sort_order": 100
       }
     ],
@@ -532,8 +568,8 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product17/f8c5ac9a5a5ce772eb352dc32c90a3c41470401832.jpg",
-        "s3_small_file_path": "upload/product17/small_f8c5ac9a5a5ce772eb352dc32c90a3c41470401832.jpg",
+        "s3_file_path": "/upload/product17/f8c5ac9a5a5ce772eb352dc32c90a3c41470401832.jpg",
+        "s3_small_file_path": "/upload/product17/small_f8c5ac9a5a5ce772eb352dc32c90a3c41470401832.jpg",
         "sort_order": 100
       }
     ],
@@ -552,11 +588,14 @@
     "card_text": "Этот продукт содержит экстракт коры березы, что помогает выпрямить и разгладить волосы и в то же время защищает шерсть от термо повреждений. Если вам нужно сделать гладкую, завивающуюся шерсть, слегка нанесите средство на щетку и разгладьте ей шерсть вниз. Это придаст невероятный блеск шерсти. Также может использоваться в качестве распутывающего спрея для спутанной шерсти(для этого наносить продукт в таких количествах, сколько это необходимо на сухую шерсть, расчесать расческой колтуны и запутанные волосы, завершить купанием).",
     "category": "styling",
     "eng_title": "Isle Straighten ",
+    "solutions": [
+      "dull-coat"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product18/3619b400fbc606b3be216d6c92ae22bc1470401840.jpg",
-        "s3_small_file_path": "upload/product18/small_3619b400fbc606b3be216d6c92ae22bc1470401840.jpg",
+        "s3_file_path": "/upload/product18/3619b400fbc606b3be216d6c92ae22bc1470401840.jpg",
+        "s3_small_file_path": "/upload/product18/small_3619b400fbc606b3be216d6c92ae22bc1470401840.jpg",
         "sort_order": 100
       }
     ],
@@ -575,11 +614,14 @@
     "card_text": "Кондиционер спрей, не требующий смывания для длинношерстных пород, предотвращает ломкость и повышает гибкость, уменьшает вред от постоянного расчесывания и укладки помогая шерсти расти более длинной и крепкой.\r\n\r\nСодержит белки, которые увеличивают прочность волос, а компоненты кондиционирования увлажняют их. Этот не требующий смывания кондиционер может использоваться ежедневно, перед расчесыванием в период между купаниями.\r\n",
     "category": "spray",
     "eng_title": "Isle Strengthen",
+    "solutions": [
+      "shedding"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product19/db3c253fc74d86befe632e5a546e6b471470401852.jpg",
-        "s3_small_file_path": "upload/product19/small_db3c253fc74d86befe632e5a546e6b471470401852.jpg",
+        "s3_file_path": "/upload/product19/db3c253fc74d86befe632e5a546e6b471470401852.jpg",
+        "s3_small_file_path": "/upload/product19/small_db3c253fc74d86befe632e5a546e6b471470401852.jpg",
         "sort_order": 100
       }
     ],
@@ -598,21 +640,24 @@
     "card_text": "Спрей, который сделает шерсть абсолютно невесомой. Он был специально разработан для подготовки шерсти к стрижке или для придания шерсти немного дополнительной текстуры. Этот продукт не будет пачкать и не испортит Ваши ножниц, а шерсть не станет липкой на ощупь. Этот продукт идеально подходит для шерсти таких пород, как Пудель, Португальская Водянае собака и Бишон-фризе, и дает фантастические результаты на ногах шнауцеров и Керри Блю терьеров. Идеально подходит для подготовки шерсти к стрижке ножницами и укладке.",
     "category": "styling",
     "eng_title": "Isle Style",
+    "solutions": [
+      "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product20/74fa8ec498e91f3ff7e59b9506a8943d1470401977.jpg",
-        "s3_small_file_path": "upload/product20/small_74fa8ec498e91f3ff7e59b9506a8943d1470401977.jpg",
+        "s3_file_path": "/upload/product20/74fa8ec498e91f3ff7e59b9506a8943d1470401977.jpg",
+        "s3_small_file_path": "/upload/product20/small_74fa8ec498e91f3ff7e59b9506a8943d1470401977.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product20/d6e49e85efb30a0dd99cd118a2bcb9e91470402200.jpg",
-        "s3_small_file_path": "upload/product20/small_d6e49e85efb30a0dd99cd118a2bcb9e91470402200.jpg",
+        "s3_file_path": "/upload/product20/d6e49e85efb30a0dd99cd118a2bcb9e91470402200.jpg",
+        "s3_small_file_path": "/upload/product20/small_d6e49e85efb30a0dd99cd118a2bcb9e91470402200.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product20/73d48ec341f29617fcf2d51e32b229111471011297.jpg",
-        "s3_small_file_path": "upload/product20/small_73d48ec341f29617fcf2d51e32b229111471011297.jpg",
+        "s3_file_path": "/upload/product20/73d48ec341f29617fcf2d51e32b229111471011297.jpg",
+        "s3_small_file_path": "/upload/product20/small_73d48ec341f29617fcf2d51e32b229111471011297.jpg",
         "sort_order": 100
       }
     ],
@@ -631,16 +676,19 @@
     "card_text": "Данный продукт был разработан для добавления фантастического объема шерсти. Он попадает в эпидермис и каждый отдельный волос, придавая шерсти невероятно большой объем, при этом шерсть не будет иметь ощущения присутствия каких либо косметических средств. Он может быть использован в чистом виде или разбавленным как спрей.",
     "category": "styling",
     "eng_title": "Isle Thicken",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product21/8bdca162d6ddea02b32cc7107bd2485b1470401992.jpg",
-        "s3_small_file_path": "upload/product21/small_8bdca162d6ddea02b32cc7107bd2485b1470401992.jpg",
+        "s3_file_path": "/upload/product21/8bdca162d6ddea02b32cc7107bd2485b1470401992.jpg",
+        "s3_small_file_path": "/upload/product21/small_8bdca162d6ddea02b32cc7107bd2485b1470401992.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product21/8cbee640eb503e5a4e567f1405c922bf1471011379.jpg",
-        "s3_small_file_path": "upload/product21/small_8cbee640eb503e5a4e567f1405c922bf1471011379.jpg",
+        "s3_file_path": "/upload/product21/8cbee640eb503e5a4e567f1405c922bf1471011379.jpg",
+        "s3_small_file_path": "/upload/product21/small_8cbee640eb503e5a4e567f1405c922bf1471011379.jpg",
         "sort_order": 100
       }
     ],
@@ -659,11 +707,14 @@
     "card_text": "Эта добавка для шерсти содержит маточное молочко, взвешенное в растительных маслах. Белки, содержащиеся в маточном молочке способствуют росту волос и снижают вероятность их потери.",
     "category": "supplements",
     "eng_title": "№ 91 Royal Jelly Coat Supplement",
+    "solutions": [
+      "shedding"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product22/cfbfa9eb5a932789cca7ab6f18100ab91471010517.jpg",
-        "s3_small_file_path": "upload/product22/small_cfbfa9eb5a932789cca7ab6f18100ab91471010517.jpg",
+        "s3_file_path": "/upload/product22/cfbfa9eb5a932789cca7ab6f18100ab91471010517.jpg",
+        "s3_small_file_path": "/upload/product22/small_cfbfa9eb5a932789cca7ab6f18100ab91471010517.jpg",
         "sort_order": 100
       }
     ],
@@ -682,11 +733,14 @@
     "card_text": "Добавка на основе масла Вечерней примулы особенно эффективна при шелушении кожи, зуде кожи и обладает природной, успокаивающей способностью. Богатая жирными кислотами является крайне важной для здоровья кожи, блеска шерсти, и хорошим регулятором необходимых масел в шерсти. Предназначен для использования в сочетании непосредственно с продуктами ISLE OF DOGS. Перед применением необходимо хорошо взболтать. ",
     "category": "supplements",
     "eng_title": "№ 92 EFA Blend Coat Supplement",
+    "solutions": [
+      "itchy-flaky-skin", "allergies"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product23/2de6743e32d1136f08a38bba9b49e6231471010530.jpg",
-        "s3_small_file_path": "upload/product23/small_2de6743e32d1136f08a38bba9b49e6231471010530.jpg",
+        "s3_file_path": "/upload/product23/2de6743e32d1136f08a38bba9b49e6231471010530.jpg",
+        "s3_small_file_path": "/upload/product23/small_2de6743e32d1136f08a38bba9b49e6231471010530.jpg",
         "sort_order": 100
       }
     ],
@@ -705,11 +759,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Предназначен для нежной очистки и увлажнения, оставляя ощущение мягкости и гладкости шерсти. Добавляет увлажняющие свойства, способствует укреплению волос и увеличивает эластичность для предотвращения повреждений покрова. Кроме того, хорошо работает на сухой и поврежденной шерсти всех типов.",
     "category": "shampoo",
     "eng_title": "Sit Still Shampoo",
+    "solutions": [
+      "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product24/4ee07d90491dca76075b0586e620c4d81470402864.jpg",
-        "s3_small_file_path": "upload/product24/small_4ee07d90491dca76075b0586e620c4d81470402864.jpg",
+        "s3_file_path": "/upload/product24/4ee07d90491dca76075b0586e620c4d81470402864.jpg",
+        "s3_small_file_path": "/upload/product24/small_4ee07d90491dca76075b0586e620c4d81470402864.jpg",
         "sort_order": 100
       }
     ],
@@ -728,11 +785,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Превосходный моющий продукт, который добавляет тектуру и объем мягкому типу шерсти и облегчает укладку и стрижку. Сохраняет качество и характер жесткой шерсти. Придаст шерсти больше объема.",
     "category": "shampoo",
     "eng_title": "Stand Up Shampoo",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product25/970058a9a17ab1bec406eaa87929b6b81470402967.jpg",
-        "s3_small_file_path": "upload/product25/small_970058a9a17ab1bec406eaa87929b6b81470402967.jpg",
+        "s3_file_path": "/upload/product25/970058a9a17ab1bec406eaa87929b6b81470402967.jpg",
+        "s3_small_file_path": "/upload/product25/small_970058a9a17ab1bec406eaa87929b6b81470402967.jpg",
         "sort_order": 100
       }
     ],
@@ -751,11 +811,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Мягкий, но глубокий очистки шампунь для удаления грязи и запаха, а также увеличивает время между купаниями. Хорошо работает сам по себе, а также может быть использован в первую очередь, с последующим применением других шампуней. Является смесью клубники, жасмина и игристого вина.",
     "category": "shampoo",
     "eng_title": "Stay Clean Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product26/9c3dcfe2a2d0a6ff1ad89610f47112d91470403068.jpg",
-        "s3_small_file_path": "upload/product26/small_9c3dcfe2a2d0a6ff1ad89610f47112d91470403068.jpg",
+        "s3_file_path": "/upload/product26/9c3dcfe2a2d0a6ff1ad89610f47112d91470403068.jpg",
+        "s3_small_file_path": "/upload/product26/small_9c3dcfe2a2d0a6ff1ad89610f47112d91470403068.jpg",
         "sort_order": 100
       }
     ],
@@ -774,11 +837,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Омолаживающий кондиционер на основе протеина, способствующий восстановлению повреждений вызванных неправильной диетой или парикмахерскими инструментами. Увеличивает объем и облегчает стрижку и укладку. Не смягчает покров настолько, насколько его смягчают другие кондиционеры.",
     "category": "conditioners",
     "eng_title": "2 Build Conditioner",
+    "solutions": [
+      "shedding", "thin-lifeless-hair"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product27/3e0437c16cd973cd3859a3a8a1f223731470403092.jpg",
-        "s3_small_file_path": "upload/product27/small_3e0437c16cd973cd3859a3a8a1f223731470403092.jpg",
+        "s3_file_path": "/upload/product27/3e0437c16cd973cd3859a3a8a1f223731470403092.jpg",
+        "s3_small_file_path": "/upload/product27/small_3e0437c16cd973cd3859a3a8a1f223731470403092.jpg",
         "sort_order": 100
       }
     ],
@@ -797,11 +863,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Глубоко проникающий кондиционер, созданный для увлажнения, защиты и предотвращения повреждений шерсти, придает блеск. Делает шерсть более мягкой, гладкой и послушной. Постоянное применение придаст шерсти более роскошный вид.",
     "category": "conditioners",
     "eng_title": "2 Heal Conditioner",
+    "solutions": [
+      "shedding", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product28/268e0e67cdf0308f0e4ca432f7b27bec1470403104.jpg",
-        "s3_small_file_path": "upload/product28/small_268e0e67cdf0308f0e4ca432f7b27bec1470403104.jpg",
+        "s3_file_path": "/upload/product28/268e0e67cdf0308f0e4ca432f7b27bec1470403104.jpg",
+        "s3_small_file_path": "/upload/product28/small_268e0e67cdf0308f0e4ca432f7b27bec1470403104.jpg",
         "sort_order": 100
       }
     ],
@@ -820,16 +889,19 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Кондиционер-спрей, помогает избавиться от статического электричества и избавляет шерсть от спутывания, не повреждая ее. Повышает упругость шерсти, что предотвращает ломкость. Придает заметную гладкость длинной шерсти и блеск всем видам шерсти. Отталкивает грязь, позволяя шерсти дольше оставаться чистой. Отлично подходит для распыления на шерсть непосредственно перед стрижкой, так как смазывает шерсть.",
     "category": "spray",
     "eng_title": "4 Control Grooming Spray",
+    "solutions": [
+      "undesirable-odor", "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product29/e02634ec1d21c5fede97e153fbde56111470403119.jpg",
-        "s3_small_file_path": "upload/product29/small_e02634ec1d21c5fede97e153fbde56111470403119.jpg",
+        "s3_file_path": "/upload/product29/e02634ec1d21c5fede97e153fbde56111470403119.jpg",
+        "s3_small_file_path": "/upload/product29/small_e02634ec1d21c5fede97e153fbde56111470403119.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product29/d8117290c6ced277e5fe31e1d1ee78cd1470403120.jpg",
-        "s3_small_file_path": "upload/product29/small_d8117290c6ced277e5fe31e1d1ee78cd1470403120.jpg",
+        "s3_file_path": "/upload/product29/d8117290c6ced277e5fe31e1d1ee78cd1470403120.jpg",
+        "s3_small_file_path": "/upload/product29/small_d8117290c6ced277e5fe31e1d1ee78cd1470403120.jpg",
         "slug": "4-control-grooming-spray",
         "sort_order": 100
       }
@@ -849,11 +921,14 @@
     "card_text": "Данный продукт относится к разряду салонной косметики. Разработан специально для груминг салонов, профессиональных грумеров и крупных питомников. Текстурирующий спрей увеличивающий объем и структуру. Облегчает укладку и стрижку. Облегчает стрижку поднимая мягкую шерсть. Помогает предотвратить расслоение кончиков волос. Позволяет получить милую, маленькую и округлую головку у Йоркширстых терьеров и Шиа-Тсу.",
     "category": "spray",
     "eng_title": "4 Style Grooming Spray",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product30/8bc44420988d7bd36876eda3a044c74f1470403132.jpg",
-        "s3_small_file_path": "upload/product30/small_8bc44420988d7bd36876eda3a044c74f1470403132.jpg",
+        "s3_file_path": "/upload/product30/8bc44420988d7bd36876eda3a044c74f1470403132.jpg",
+        "s3_small_file_path": "/upload/product30/small_8bc44420988d7bd36876eda3a044c74f1470403132.jpg",
         "sort_order": 100
       }
     ],
@@ -875,8 +950,8 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product32/78ed0ed096b4cbcec38aaa9963d12eb41470402056.jpg",
-        "s3_small_file_path": "upload/product32/small_78ed0ed096b4cbcec38aaa9963d12eb41470402056.jpg",
+        "s3_file_path": "/upload/product32/78ed0ed096b4cbcec38aaa9963d12eb41470402056.jpg",
+        "s3_small_file_path": "/upload/product32/small_78ed0ed096b4cbcec38aaa9963d12eb41470402056.jpg",
         "sort_order": 100
       }
     ],
@@ -895,11 +970,14 @@
     "card_text": "Мягкий суперочищающий шампунь, удаляющий любые загрязнения с шерсти Вашей собаки, устраняющий неприятный запах, продлевающий интервалы между мытьем. В его составе экстракт зеленого чая,сок листьев Алоэ, которые придают шерсти приятный легкий аромат. Может использоваться для всех пород собак.",
     "category": "shampoo",
     "eng_title": "Clean Coating Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product33/94d09228b100a8dba279e43e899515211470402803.jpg",
-        "s3_small_file_path": "upload/product33/small_94d09228b100a8dba279e43e899515211470402803.jpg",
+        "s3_file_path": "/upload/product33/94d09228b100a8dba279e43e899515211470402803.jpg",
+        "s3_small_file_path": "/upload/product33/small_94d09228b100a8dba279e43e899515211470402803.jpg",
         "slug": "clean-coating-shampoo",
         "sort_order": 100
       }
@@ -919,11 +997,14 @@
     "card_text": "Может использоваться для пуделей, шпицов, овчарок, вельш-корги, акит, колли шелти, самоедов, маламутов, сибирских хаски и других пород которым важно сохранить текстуру и объем шерсти. Экстракт листьев цветков календулы и листьев розмарина питают шерсть и добавляют блеск.",
     "category": "shampoo",
     "eng_title": "Lush Coating Shampoo",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product34/6a53503b58cbf2f46e59f57ae338cd801470402827.jpg",
-        "s3_small_file_path": "upload/product34/small_6a53503b58cbf2f46e59f57ae338cd801470402827.jpg",
+        "s3_file_path": "/upload/product34/6a53503b58cbf2f46e59f57ae338cd801470402827.jpg",
+        "s3_small_file_path": "/upload/product34/small_6a53503b58cbf2f46e59f57ae338cd801470402827.jpg",
         "sort_order": 100
       }
     ],
@@ -942,11 +1023,14 @@
     "card_text": "Может использоваться для йоркширских терьеров, ши-тцу, чихуа-хуа, папийонов, биглей, китайской хохлатой, такс и других пород собак, которым важно увлажнять и питать шерсть.\r\nПантенол, сок листьев Алоэ укрепляют шерсть и делают ее блестящей и придают шерсти приятный аромат.",
     "category": "shampoo",
     "eng_title": "Silky Coating Shampoo",
+    "solutions": [
+      "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product35/4b769f613d695144566fe40294d533a11470402791.jpg",
-        "s3_small_file_path": "upload/product35/small_4b769f613d695144566fe40294d533a11470402791.jpg",
+        "s3_file_path": "/upload/product35/4b769f613d695144566fe40294d533a11470402791.jpg",
+        "s3_small_file_path": "/upload/product35/small_4b769f613d695144566fe40294d533a11470402791.jpg",
         "sort_order": 100
       }
     ],
@@ -965,11 +1049,14 @@
     "card_text": "Может использоваться для пуделей, шпицов, овчарок, вельш-корги, акит, самоедов, маламутов, сибирских хаски, терьеров и других пород, которым важно сохранить текстуру и объем шерсти. Может использоваться для жесткошерстных собаках. Не смягчает шерсть.\r\nОмолаживающий кондиционер на основе протеина с маслом вечерней примулы и маслом жожова, и аминокислотами помогает укрепить и увлажнить сухую шерсть.",
     "category": "conditioners",
     "eng_title": "Lush Coating Conditioner",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product36/9111ad0daf626e8ca4989cd60898d86e1470402754.jpg",
-        "s3_small_file_path": "upload/product36/small_9111ad0daf626e8ca4989cd60898d86e1470402754.jpg",
+        "s3_file_path": "/upload/product36/9111ad0daf626e8ca4989cd60898d86e1470402754.jpg",
+        "s3_small_file_path": "/upload/product36/small_9111ad0daf626e8ca4989cd60898d86e1470402754.jpg",
         "sort_order": 100
       }
     ],
@@ -988,11 +1075,14 @@
     "card_text": "Может использоваться для всех пород собак, которым необходимо увлажнить шерсть\r\nСодержит протеины, которые делают шерсть управляемой,\r\nшелковистой и блестящей. Препятствует ломкости шерсти.\r\nПридает приятный запах, продлевает интервалы между мытьем. В его составе, сок листьев Алоэ. Питает шерсть от корней\r\nдо кончиков и защищает ее от негативного воздействия окружающей среды.",
     "category": "conditioners",
     "eng_title": "Silky Coating Conditioner",
+    "solutions": [
+      "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product37/fd471ae8fb74e3c50494a809f322c33c1470402768.jpg",
-        "s3_small_file_path": "upload/product37/small_fd471ae8fb74e3c50494a809f322c33c1470402768.jpg",
+        "s3_file_path": "/upload/product37/fd471ae8fb74e3c50494a809f322c33c1470402768.jpg",
+        "s3_small_file_path": "/upload/product37/small_fd471ae8fb74e3c50494a809f322c33c1470402768.jpg",
         "sort_order": 100
       }
     ],
@@ -1011,11 +1101,14 @@
     "card_text": "Может использоваться для пуделей, шпицов, овчарок, вельш-корги, акит, самоедов, маламутов, сибирских хаски и других пород, которым важно сохранить текстуру и объем шерсти.\r\nЭтот спрей для ежедневного расчесывания шерсти собак придает шерсти мягкость и увлажнение. Содержит протеины, шелковые аминокислоты, которые помогают питать волосы, не утяжеляя их и сохраняя объем.",
     "category": "spray",
     "eng_title": "Lush Coating Brush Spray",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product38/6500aedb532dfa2dab867f8dc4b0b6581470402731.jpg",
-        "s3_small_file_path": "upload/product38/small_6500aedb532dfa2dab867f8dc4b0b6581470402731.jpg",
+        "s3_file_path": "/upload/product38/6500aedb532dfa2dab867f8dc4b0b6581470402731.jpg",
+        "s3_small_file_path": "/upload/product38/small_6500aedb532dfa2dab867f8dc4b0b6581470402731.jpg",
         "sort_order": 100
       }
     ],
@@ -1034,11 +1127,14 @@
     "card_text": "Может использоваться для всех пород собак, которым необходимо увлажнить шерсть Содержит цветы ромашки и экстракт листьев розмарина, которые препятствуют спутыванию шерсти и снимают статику. Препятствует ломкости шерсти. Придает шерсти приятный запах, продлевает интервалы между мытьем. Питает шерсть от корней до кончиков и защищает от негативного воздействия окружающей среды. Помогает продлить интервал между мытьем.",
     "category": "spray",
     "eng_title": "Silky Coating Brush Spray",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product39/ee4395736d9ef8b763f80d6f1369a5621470402743.jpg",
-        "s3_small_file_path": "upload/product39/small_ee4395736d9ef8b763f80d6f1369a5621470402743.jpg",
+        "s3_file_path": "/upload/product39/ee4395736d9ef8b763f80d6f1369a5621470402743.jpg",
+        "s3_small_file_path": "/upload/product39/small_ee4395736d9ef8b763f80d6f1369a5621470402743.jpg",
         "sort_order": 100
       }
     ],
@@ -1060,8 +1156,8 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product40/f6dd2741fdee218606bb3e14ba78539a1470402286.jpg",
-        "s3_small_file_path": "upload/product40/small_f6dd2741fdee218606bb3e14ba78539a1470402286.jpg",
+        "s3_file_path": "/upload/product40/f6dd2741fdee218606bb3e14ba78539a1470402286.jpg",
+        "s3_small_file_path": "/upload/product40/small_f6dd2741fdee218606bb3e14ba78539a1470402286.jpg",
         "sort_order": 100
       }
     ],
@@ -1080,16 +1176,19 @@
     "card_text": "Шампунь для всех типов шерсти обеспечивает мягкую, но тщательную очистку.",
     "category": "shampoo",
     "eng_title": "Deep Cleaning Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product559/76ae439c6373100b7da205e49e989bc01470402304.jpg",
-        "s3_small_file_path": "upload/product559/small_76ae439c6373100b7da205e49e989bc01470402304.jpg",
+        "s3_file_path": "/upload/product559/76ae439c6373100b7da205e49e989bc01470402304.jpg",
+        "s3_small_file_path": "/upload/product559/small_76ae439c6373100b7da205e49e989bc01470402304.jpg",
         "sort_order": 200
       },
       {
-        "s3_file_path": "upload/product559/5ed9c655d956d81ba7e3f14ba72534161471011208.jpg",
-        "s3_small_file_path": "upload/product559/small_5ed9c655d956d81ba7e3f14ba72534161471011208.jpg",
+        "s3_file_path": "/upload/product559/5ed9c655d956d81ba7e3f14ba72534161471011208.jpg",
+        "s3_small_file_path": "/upload/product559/small_5ed9c655d956d81ba7e3f14ba72534161471011208.jpg",
         "sort_order": 100
       }
     ],
@@ -1108,16 +1207,19 @@
     "card_text": "Нежный шампунь на основе белка кератина, добавит больше объема и пышности любому типу шерсти.&nbsp;Может использоваться для пуделей, шпицов, овчарок, вельш-корги, акит, колли шелти, самоедов, маламутов, сибирских хаски и других пород которым важно сохранить текстуру и объем шерсти.",
     "category": "shampoo",
     "eng_title": "Keratin Volume Shampoo",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product560/a26483e493247d4cf9e492a60d7de31f1470402318.jpg",
-        "s3_small_file_path": "upload/product560/small_a26483e493247d4cf9e492a60d7de31f1470402318.jpg",
+        "s3_file_path": "/upload/product560/a26483e493247d4cf9e492a60d7de31f1470402318.jpg",
+        "s3_small_file_path": "/upload/product560/small_a26483e493247d4cf9e492a60d7de31f1470402318.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product560/f28f4558cb160da8c0f3726cdfe918081471010947.jpg",
-        "s3_small_file_path": "upload/product560/small_f28f4558cb160da8c0f3726cdfe918081471010947.jpg",
+        "s3_file_path": "/upload/product560/f28f4558cb160da8c0f3726cdfe918081471010947.jpg",
+        "s3_small_file_path": "/upload/product560/small_f28f4558cb160da8c0f3726cdfe918081471010947.jpg",
         "sort_order": 10
       }
     ],
@@ -1136,16 +1238,19 @@
     "card_text": "Может использоваться для пуделей, шпицов, овчарок, вельш-корги, акит, колли шелти, самоедов, маламутов, сибирских хаски и других пород которым важно сохранить текстуру и объем шерсти. Нежный кондиционер на основе белка кератина, добавит больше объема и пышности любому типу шерсти.",
     "category": "conditioners",
     "eng_title": "Keratin Volume Conditioner",
+    "solutions": [
+      "shedding", "thin-lifeless-hair", "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product561/19c1797d77efa7088fd19aaf9dde114e1470402331.jpg",
-        "s3_small_file_path": "upload/product561/small_19c1797d77efa7088fd19aaf9dde114e1470402331.jpg",
+        "s3_file_path": "/upload/product561/19c1797d77efa7088fd19aaf9dde114e1470402331.jpg",
+        "s3_small_file_path": "/upload/product561/small_19c1797d77efa7088fd19aaf9dde114e1470402331.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product561/89628c04e7701d43eb940bfdf1fb68dc1471010708.jpg",
-        "s3_small_file_path": "upload/product561/small_89628c04e7701d43eb940bfdf1fb68dc1471010708.jpg",
+        "s3_file_path": "/upload/product561/89628c04e7701d43eb940bfdf1fb68dc1471010708.jpg",
+        "s3_small_file_path": "/upload/product561/small_89628c04e7701d43eb940bfdf1fb68dc1471010708.jpg",
         "sort_order": 10
       }
     ],
@@ -1167,13 +1272,13 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product562/3702fc93c4d2d47beab3cded7d089c3d1470402347.jpg",
-        "s3_small_file_path": "upload/product562/small_3702fc93c4d2d47beab3cded7d089c3d1470402347.jpg",
+        "s3_file_path": "/upload/product562/3702fc93c4d2d47beab3cded7d089c3d1470402347.jpg",
+        "s3_small_file_path": "/upload/product562/small_3702fc93c4d2d47beab3cded7d089c3d1470402347.jpg",
         "sort_order": 200
       },
       {
-        "s3_file_path": "upload/product562/19f1ae471f62be1c024dde643e34defa1471011172.jpg",
-        "s3_small_file_path": "upload/product562/small_19f1ae471f62be1c024dde643e34defa1471011172.jpg",
+        "s3_file_path": "/upload/product562/19f1ae471f62be1c024dde643e34defa1471011172.jpg",
+        "s3_small_file_path": "/upload/product562/small_19f1ae471f62be1c024dde643e34defa1471011172.jpg",
         "sort_order": 100
       }
     ],
@@ -1195,13 +1300,13 @@
     "images":
     [
       {
-        "s3_file_path": "upload/product563/72e6ede8c4effb6e00f61388c1c238bc1470402357.jpg",
-        "s3_small_file_path": "upload/product563/small_72e6ede8c4effb6e00f61388c1c238bc1470402357.jpg",
+        "s3_file_path": "/upload/product563/72e6ede8c4effb6e00f61388c1c238bc1470402357.jpg",
+        "s3_small_file_path": "/upload/product563/small_72e6ede8c4effb6e00f61388c1c238bc1470402357.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product563/ae6f951c52dbf075c80d4bb743a8aaa61471010769.jpg",
-        "s3_small_file_path": "upload/product563/small_ae6f951c52dbf075c80d4bb743a8aaa61471010769.jpg",
+        "s3_file_path": "/upload/product563/ae6f951c52dbf075c80d4bb743a8aaa61471010769.jpg",
+        "s3_small_file_path": "/upload/product563/small_ae6f951c52dbf075c80d4bb743a8aaa61471010769.jpg",
         "sort_order": 10
       }
     ],
@@ -1220,26 +1325,29 @@
     "card_text": "Нежный, шампунь «без слез» для маленьких щенков. Идеально подходит для мытья головы собаки. Шампунь может использоваться на любом типе шерсти. Также может подойти собакам с чувствительной кошей.",
     "category": "shampoo",
     "eng_title": "Tearless Puppy Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product564/1b21e1fd2e270b0aa718b5df58dbe2771470394823.jpg",
-        "s3_small_file_path": "upload/product564/small_1b21e1fd2e270b0aa718b5df58dbe2771470394823.jpg",
+        "s3_file_path": "/upload/product564/1b21e1fd2e270b0aa718b5df58dbe2771470394823.jpg",
+        "s3_small_file_path": "/upload/product564/small_1b21e1fd2e270b0aa718b5df58dbe2771470394823.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product564/6ccf1f79aed9f2079ceb08c7fb480e5c1470397414.jpg",
-        "s3_small_file_path": "upload/product564/small_6ccf1f79aed9f2079ceb08c7fb480e5c1470397414.jpg",
+        "s3_file_path": "/upload/product564/6ccf1f79aed9f2079ceb08c7fb480e5c1470397414.jpg",
+        "s3_small_file_path": "/upload/product564/small_6ccf1f79aed9f2079ceb08c7fb480e5c1470397414.jpg",
         "sort_order": 100
       },
       {
-        "s3_file_path": "upload/product564/0d7882138312636886b42ecb44f31e961470402374.jpg",
-        "s3_small_file_path": "upload/product564/small_0d7882138312636886b42ecb44f31e961470402374.jpg",
+        "s3_file_path": "/upload/product564/0d7882138312636886b42ecb44f31e961470402374.jpg",
+        "s3_small_file_path": "/upload/product564/small_0d7882138312636886b42ecb44f31e961470402374.jpg",
         "sort_order": 200
       },
       {
-        "s3_file_path": "upload/product564/33aad729c2b250dc46f77e03396d82e91471011230.jpg",
-        "s3_small_file_path": "upload/product564/small_33aad729c2b250dc46f77e03396d82e91471011230.jpg",
+        "s3_file_path": "/upload/product564/33aad729c2b250dc46f77e03396d82e91471011230.jpg",
+        "s3_small_file_path": "/upload/product564/small_33aad729c2b250dc46f77e03396d82e91471011230.jpg",
         "sort_order": 100
       }
     ],
@@ -1258,11 +1366,14 @@
     "card_text": "Имеет очень нежный приятный запах. Может использоваться для устранения неприятного запаха с шерсти собаки, а также для устранения неприятного запаха во всех местах обитания собаки: дезодорирования помещений , обработки подстилок, туалетов, вольеров и т.д. Придает шерсти приятный запах.Освежает шерсть собаки после прогулки.",
     "category": "replascent",
     "eng_title": "Sugar Cane+Grapefruit Replascent",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product565/b22b6adfb19899789555fb8b8ef419651470402530.jpg",
-        "s3_small_file_path": "upload/product565/small_b22b6adfb19899789555fb8b8ef419651470402530.jpg",
+        "s3_file_path": "/upload/product565/b22b6adfb19899789555fb8b8ef419651470402530.jpg",
+        "s3_small_file_path": "/upload/product565/small_b22b6adfb19899789555fb8b8ef419651470402530.jpg",
         "sort_order": 100
       }
     ],
@@ -1281,11 +1392,14 @@
     "card_text": "Может использоваться для устранения неприятного запаха с шерсти собаки, а также для устранения неприятного запаха во всех местах обитания собаки: дезодорирования помещений, обработки подстилок, туалетов, вольеров и т.д. Придает шерсти приятный запах. Освежает шерсть собаки после прогулки.",
     "category": "replascent",
     "eng_title": "Red Berries + Champagne Replascent",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product565/03f311259de76e1f6f474d6b9fc8312d1470402390.jpg",
-        "s3_small_file_path": "upload/product565/small_03f311259de76e1f6f474d6b9fc8312d1470402390.jpg",
+        "s3_file_path": "/upload/product565/03f311259de76e1f6f474d6b9fc8312d1470402390.jpg",
+        "s3_small_file_path": "/upload/product565/small_03f311259de76e1f6f474d6b9fc8312d1470402390.jpg",
         "sort_order": 100
       }
     ],
@@ -1304,16 +1418,14 @@
     "card_text": "Шампунь не имеет запаха, эффективно борется с блохами и клещами.",
     "category": "shampoo",
     "eng_title": "Flea And Tick Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product567/19f578c6c59c68fda8e11e177b4ca6541471010804.jpg",
-        "s3_small_file_path": "upload/product567/small_19f578c6c59c68fda8e11e177b4ca6541471010804.jpg",
-        "sort_order": 100
-      },
-      {
-        "s3_file_path": "upload/product567/de3a9b4fbf3b48e76b83204cc70eed331471014816.jpg",
-        "s3_small_file_path": "upload/product567/small_de3a9b4fbf3b48e76b83204cc70eed331471014816.jpg",
+        "s3_file_path": "/upload/product567/de3a9b4fbf3b48e76b83204cc70eed331471014816.jpg",
+        "s3_small_file_path": "/upload/product567/small_de3a9b4fbf3b48e76b83204cc70eed331471014816.jpg",
         "sort_order": 100
       }
     ],
@@ -1332,6 +1444,9 @@
     "card_text": "",
     "category": "shampoo",
     "eng_title": "Refreshing Waterless Shampoo",
+    "solutions": [
+      "undesirable-odor"
+    ],
     "images": [],
     "ingredients": "",
     "is_active": 1,
@@ -1348,11 +1463,14 @@
     "card_text": "Разработан для ухода за проблемной, непослушной, безжизненной или выгоревшей шерстью. После нанесения обволакивает шерсть, снижает волнистость, устраняет статику, борется с сечением шерсти, восстанавливает ее, придавая ей здоровое шелковистое сияние без утяжеления.&nbsp;",
     "category": "styling",
     "eng_title": "Isle Smooth",
+    "solutions": [
+      "static-flyaways"
+    ],
     "images":
     [
       {
-        "s3_file_path": "upload/product574/fc758ac4ab62d4d293b667b4b334798e1470402663.jpg",
-        "s3_small_file_path": "upload/product574/small_fc758ac4ab62d4d293b667b4b334798e1470402663.jpg",
+        "s3_file_path": "/upload/product574/fc758ac4ab62d4d293b667b4b334798e1470402663.jpg",
+        "s3_small_file_path": "/upload/product574/small_fc758ac4ab62d4d293b667b4b334798e1470402663.jpg",
         "sort_order": 100
       }
     ],
@@ -1367,15 +1485,15 @@
     "tag": "smooth"
   },
   {
-    "application": "Wet hair thoroughly, apply shampoo, lather and rinse to remove dirt, product build up or excessive oils. For optimum results it may be necessary to repeat. Best used full strength, but may be diluted 10:1.",
-    "card_text": "Our No. 34 Clarifying shampoo removes build-up from accumulated conditioners and styling products.  Not meant for everyday use, but to detoxify the hairs as necessary.  Use this product once a month, or between shows, and follow up with a fresh application of the Isle of Dogs conditioner best suited for your dog’s coat type. For the dog with persistent oily coat or skin, use as often as needed. ",
+    "application": "Тщательно намочите волосы, нанесите шампунь, вспеньте и смойте, чтобы удалить грязь, остатки продукта или излишки масла. Для достижения оптимальных результатов может потребоваться повторение. Лучше всего использовать полную концентрацию, но можно разбавить 10:1.",
+    "card_text": "Наш очищающий шампунь № 34 удаляет остатки кондиционеров и средств для укладки. Не для повседневного использования, а для детоксикации волос по мере необходимости. Используйте этот продукт один раз в месяц или между выставками, а затем нанесите свежий кондиционер Isle of Dogs, который лучше всего подходит для типа шерсти вашей собаки. Для собак со стойкой жирной шерстью или кожей используйте так часто, как это необходимо.",
     "category": "shampoo",
     "eng_title": "No. 34 Clarifying Shampoo",
     "images":
     [
       {
-        "s3_file_path": "upload/product575/a71b7b97ba11b1744606b2dffff49e1a1471010362.jpg",
-        "s3_small_file_path": "upload/product575/small_a71b7b97ba11b1744606b2dffff49e1a1471010362.jpg",
+        "s3_file_path": "/upload/product575/a71b7b97ba11b1744606b2dffff49e1a1471010362.jpg",
+        "s3_small_file_path": "/upload/product575/small_a71b7b97ba11b1744606b2dffff49e1a1471010362.jpg",
         "sort_order": 100
       }
     ],
@@ -1390,15 +1508,15 @@
     "tag": "№34"
   },
   {
-    "application": "For maximum stain fighting, use full strength on the affected area. For light stains or regular use, dilute up to 15:1.",
-    "card_text": "Our No. 35 Stain Fighting shampoo is a concentrated shampoo specifically formulated to address stains or to be used as a pre-wash for very dirty dogs. Helps maintain bright colors, while fading stains on the coat such as those caused by mud, clay or urine. Expect added shine and reduced tangles as well.",
+    "application": "Для максимальной борьбы с пятнами используйте полную силу на пораженном участке. Для легких пятен или регулярного использования разбавьте до 15:1.",
+    "card_text": "Шампунь для борьбы с пятнами — это концентрированный шампунь, специально разработанный для удаления пятен или для использования в качестве предварительного мытья очень грязных собак. Помогает сохранить яркие цвета, обесцвечивая пятна на шерсти, вызванные грязью, глиной или мочой. Ожидайте дополнительного блеска и уменьшения колтунов.",
     "category": "shampoo",
     "eng_title": "№35 Stain Fighting Shampoo",
     "images":
     [
       {
-        "s3_file_path": "upload/product576/3f7e4aedcbc886414ed0562e61d1ea3f1471010393.jpg",
-        "s3_small_file_path": "upload/product576/small_3f7e4aedcbc886414ed0562e61d1ea3f1471010393.jpg",
+        "s3_file_path": "/upload/product576/3f7e4aedcbc886414ed0562e61d1ea3f1471010393.jpg",
+        "s3_small_file_path": "/upload/product576/small_3f7e4aedcbc886414ed0562e61d1ea3f1471010393.jpg",
         "sort_order": 100
       }
     ],
@@ -1413,15 +1531,15 @@
     "tag": "№35"
   },
   {
-    "application": "Can be used in wet or dry coats. For wet coats, spray directly into coat, or onto hands and evenly distribute throughout the coat. Use hands or tools to shape the coat as it dries naturally or with heat. Turns the hair into a moldable substance to play with or style. For dry coats, use similar to hairspray and/or use your fingers to coax the hair into the style you are looking for.",
-    "card_text": "Isle Texture Styling Spay - Boosts texture and adds incredible volume and holding power, while building full-on dimension and definition. Creates a range of looks for all coat types. Never sticky or tacky and will not weigh the coat down. Perfect for holding the coat in place for scissoring; yet still brush-able.",
+    "application": "Может использоваться во влажном или сухом покрытии. Для влажной шерсти распылить непосредственно на шерсть или на руки и равномерно распределить по всей шерсти. Используйте руки или инструменты, чтобы придать шерсти форму, когда она сохнет естественным путем или при нагревании. Превращает волосы в пластичную субстанцию, с которой можно играть или укладывать. Для сухой шерсти используйте аналог лака для волос и/или пальцами, чтобы придать волосам желаемый стиль.",
+    "card_text": "Isle Texture Styling Spay - Усиливает текстуру и добавляет невероятный объем и фиксацию, создавая при этом объем и четкость. Создает различные образы для всех типов пальто. Никогда не будет липким или липким и не утяжелит пальто. Идеально подходит для удержания пальто на месте для стрижки ножницами; но все еще можно чистить.",
     "category": "styling",
     "eng_title": "Isle Texture",
     "images":
     [
       {
-        "s3_file_path": "upload/product577/909861878a75e22f94b370692e7fcdeb1471014793.jpg",
-        "s3_small_file_path": "upload/product577/small_909861878a75e22f94b370692e7fcdeb1471014793.jpg",
+        "s3_file_path": "/upload/product577/909861878a75e22f94b370692e7fcdeb1471014793.jpg",
+        "s3_small_file_path": "/upload/product577/small_909861878a75e22f94b370692e7fcdeb1471014793.jpg",
         "sort_order": 100
       }
     ],

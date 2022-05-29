@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="center">Ингредиенты</h1>
+    <h1 class="text-center">Ингредиенты</h1>
     <div class="ingredients">
       <div class="ingredients__block">
         <h3 class="ingredients__header center">Масло Вечерней Примулы</h3>
@@ -58,7 +58,7 @@
       <div class="ingredients__block">
         <h3 class="ingredients__header center">Гибискус Сабдариффа</h3>
         <div class="ingredients__image_container pull-left">
-          <img src="../../assets/images/hibiscus.jpg" alt="" class="img-responsive img-thumbnail" />
+          <img src="../../assets/images/hibiscus.jpg" alt="" class="img-thumbnail" />
         </div>
         <p>
           Считается, что экстракт Гибискуса Сабдариффа (лат. Hibiscus Sabdariffa) пришел к нам из

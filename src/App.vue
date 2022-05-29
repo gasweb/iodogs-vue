@@ -1,11 +1,8 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
     <div class="container-fluid">
-      <router-link to="/about">
-        <img
-          src="https://s3.eu-central-1.amazonaws.com/iodogs/src/favicon.ico"
-          alt="Iodogs heart"
-        />
+      <router-link to="/">
+        <img src="/favicon.ico" alt="Iodogs heart" />
       </router-link>
 
       <button
@@ -35,7 +32,7 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
 }
 

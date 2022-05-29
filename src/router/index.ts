@@ -1,10 +1,15 @@
-import { RouteRecordRaw, createRouter, createWebHashHistory } from 'vue-router'
+import { RouteRecordRaw, createRouter, createWebHistory } from 'vue-router'
 
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
     name: 'Home',
     component: () => import('../views/home/index.vue'),
+  },
+  {
+    path: '/breed',
+    name: 'Для породы',
+    component: () => import('../views/breed/breed-page.vue'),
   },
   {
     path: '/brand',
@@ -59,17 +64,32 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: '/catalog/:slug',
     name: 'Каталог',
-    component: () => import('../views/catalog.vue'),
+    component: () => import('../views/catalog/catalog.vue'),
   },
   {
     path: '/line/:slug',
-    name: 'Каталог',
-    component: () => import('../views/line.vue'),
+    name: 'Серии',
+    component: () => import('../views/line/line.vue'),
+  },
+  {
+    path: '/solution/:slug',
+    name: 'Решения',
+    component: () => import('../views/solution/solution.vue'),
+  },
+  {
+    path: '/item/:slug',
+    name: 'Продукт',
+    component: () => import('../views/product/product-page.vue'),
+  },
+  {
+    path: '/breed/:slug',
+    name: 'Продукты для породы',
+    component: () => import('../views/breed/breed-slug-page.vue'),
   },
 ]
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   routes,
 })
 

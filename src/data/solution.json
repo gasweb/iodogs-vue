@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Выпадение шерсти",
+    "slug": "shedding",
+    "description": ""
+  },
+  {
+    "title": "Зудящая, шелушащаяся кожа",
+    "slug": "itchy-flaky-skin",
+    "description" : ""
+  },
+  {
+    "title": "Нежелательный запах",
+    "slug": "undesirable-odor",
+    "description": ""
+  },
+  {
+    "title": "Аллергии",
+    "slug": "allergies",
+    "description": ""
+  },
+  {
+    "title": "Тонкая, безжизненная шерсть",
+    "slug": "thin-lifeless-hair",
+    "description": ""
+  },
+  {
+    "title": "Тусклая шерсть",
+    "slug": "dull-coat",
+    "description": ""
+  },
+  {
+    "title": "Наэлектризованная, непослушная шерсть",
+    "slug": "static-flyaways",
+    "description": ""
+  }
+]

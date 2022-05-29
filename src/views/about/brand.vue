@@ -10,16 +10,9 @@
         />
       </router-link>
 
-      <div style="overflow: hidden">
-        <blockquote class="pull-right" style="width: 70%; overflow: hidden; text-align: right">
-          <span class="italic"
-            >«Только человек, у которого есть собака, чувствует себя человеком. »</span
-          >
-          <br />Пшекруй
-        </blockquote>
-      </div>
+      <AppAphorism :aphorism="getRandomAphorism()" />
       <div>
-        <h1 class="center">История бренда</h1>
+        <h1 class="text-center">История бренда</h1>
         <p>
           Мы вряд ли должны говорить вам о том, что ваша собака уникальна. Настолько же уникальна,
           как и любой член вашей семьи. И надлежащий уход, который она получает, должен быть
@@ -58,8 +51,14 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
+import { mapGetters } from 'vuex'
+import AppAphorism from '@/views/aphorism/aphorism.vue'
 
 export default defineComponent({
   name: 'AboutBrand',
+  components: { AppAphorism },
+  computed: {
+    ...mapGetters(['getRandomAphorism']),
+  },
 })
 </script>

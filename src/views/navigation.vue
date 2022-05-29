@@ -93,7 +93,7 @@
             <router-link to="/solution/shedding"> Выпадение шерсти </router-link>
           </li>
           <li class="dropdown-item">
-            <router-link to="/solution/itchy-flaky-skinn"> Зудящая, шелушащаяся кожа </router-link>
+            <router-link to="/solution/itchy-flaky-skin"> Зудящая, шелушащаяся кожа </router-link>
           </li>
           <li class="dropdown-item">
             <router-link to="/solution/undesirable-odor">Нежелательный запах </router-link>

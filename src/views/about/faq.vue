@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="center">Часто задаваемые вопросы</h1>
+    <h1 class="text-center">Часто задаваемые вопросы</h1>
     <div id="faq" class="panel-group">
       <div class="panel panel-default">
         <div class="panel-heading">
