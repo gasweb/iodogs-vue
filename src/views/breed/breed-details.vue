@@ -1,8 +1,11 @@
 <template>
-  <a :href="getBreedURL()" class="">
-    <img :src="getCoverURL()" alt="" style="width: 200px" class="img-fluid rounded" /> </a
-  ><br />
-  <a :href="getBreedURL()" class=""> {{ breed.rus_title }} </a>
+  <router-link :to="{ name: 'Продукты для породы', params: { slug: breed.slug } }"
+    ><img :src="getCoverURL()" alt="" style="width: 200px" class="img-fluid rounded"
+  /></router-link>
+  <br />
+  <router-link :to="{ name: 'Продукты для породы', params: { slug: breed.slug } }">{{
+    breed.rus_title
+  }}</router-link>
 </template>
 
 <script lang="ts">

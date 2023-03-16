@@ -74,7 +74,10 @@
           результат разглаживающего эффекта благодаря действию органических кислот на кератиновые
           цепочки. Шерсть собаки кажется более густой и блестящей. Гибискус Сабдариффа является
           одним из основных ингредиентов в нашем шампуне для блеска
-          <a href="/item/32-intensely-nourishing-gloss-shampoo">№32</a>.
+          <router-link
+            :to="{ name: 'Продукт', params: { slug: '32-intensely-nourishing-gloss-shampoo' } }"
+            >№32</router-link
+          >.
         </p>
       </div>
       <div class="ingredients__block"></div>

@@ -139,11 +139,16 @@
                 некоторые шампуни, с кондиционировавшими компонентами, накапливаются в шерсти в
                 течение долгого времени. Если вы попытаетесь вымыть накопившиеся компоненты одного
                 шампуня другим — вы добьётесь результата. Поэтому мы рекомендуем иногда мыть собаку
-                очищающими шампунями. Шампуни <a href="/item/20-royal-jelly-shampoo">№ 20</a>,
-                <a href="/item/33-coarse-coat-shampoo">№ 33</a>,
-                <a href="/item/clean-coating-shampoo">Clean Coating</a>,
-                <a href="/item/deep-cleaning-shampoo">Deep Cleaning</a>, могут быть эффективно
-                использованы в качестве очищающих шампуней.
+                очищающими шампунями. Шампуни
+                <router-link :to="{ name: 'Продукт', params: { slug: '20-royal-jelly-shampoo' } }"
+                  >№ 20</router-link
+                >,<router-link :to="{ name: 'Продукт', params: { slug: '33-coarse-coat-shampoo' } }"
+                  >№ 33</router-link
+                >,<router-link :to="{ name: 'Продукт', params: { slug: 'clean-coating-shampoo' } }"
+                  >Clean Coating</router-link
+                >,<router-link :to="{ name: 'Продукт', params: { slug: 'deep-cleaning-shampoo' } }"
+                  >Deep Cleaning</router-link
+                >, могут быть эффективно использованы в качестве очищающих шампуней.
               </p>
             </div>
           </div>

@@ -1,14 +1,14 @@
 <template>
   <div class="row">
     <div class="col-md-3">
-      <router-link :to="getProductURL()">
-        <img class="img-fluid" style="margin:auto;>" :src="getCoverURL()" :alt="getRusTitle()" />
-      </router-link>
+      <router-link :to="{ name: 'Продукт', params: { slug: product.slug } }"
+        ><img class="img-fluid" style="margin:auto;>" :src="getCoverURL()" :alt="getRusTitle()"
+      /></router-link>
     </div>
     <div class="col-md-9">
-      <a class="bold" :href="getProductURL()">
+      <router-link :to="{ name: 'Продукт', params: { slug: product.slug } }">
         {{ product.rus_title }}
-      </a>
+      </router-link>
       <p>
         {{ product.card_text }}
       </p>
