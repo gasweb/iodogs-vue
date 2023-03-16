@@ -23,8 +23,8 @@
         <img :src="getCoverURL()" alt="" class="img-thumbnail" />
       </div>
     </div>
-    <div class="text-center">
-      <a href="/buy" class="btn btn-sm btn-success product__buy_button">
+    <div v-if="hasPetGearLink()" class="text-center">
+      <a href="{{ getPetGearLink() }}" class="btn btn-sm btn-success product__buy_button">
         <span class="glyphicon glyphicon-shopping-cart"></span> Купить с доставкой
       </a>
     </div>
@@ -60,6 +60,12 @@ export default defineComponent({
     },
     getApplication() {
       return this.product.application
+    },
+    hasPetGearLink() {
+      return 'petgear_url' in this.product
+    },
+    getPetGearLink() {
+      return this.product.petgear_url
     },
   },
 })
