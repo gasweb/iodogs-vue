@@ -24,7 +24,11 @@
       </div>
     </div>
     <div v-if="hasPetGearLink()" class="text-center">
-      <a href="{{ getPetGearLink() }}" class="btn btn-sm btn-success product__buy_button">
+      <a
+        :href="getPetGearLink()"
+        target="_blank"
+        class="btn btn-sm btn-success product__buy_button"
+      >
         <span class="glyphicon glyphicon-shopping-cart"></span> Купить с доставкой
       </a>
     </div>
