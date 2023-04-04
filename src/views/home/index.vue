@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img src="../../assets/images/iodogs-logo.jpg" alt="" class="img-responsive" />
+    <img src="../../assets/images/iodogs-logo.jpg" alt="" class="img-thumbnail" />
     <div class="jumbotron">
       <p>
         Косметика для собак «Isle Of Dogs» (Айл Оф Догз) - это полноценная система по уходу за
@@ -17,7 +17,7 @@
             <img
               src="../../assets/images/couture.jpg"
               alt="Серия «Coature»"
-              class="img-responsive mauto"
+              class="img-thumbnail mauto"
             />
           </router-link>
         </div>
@@ -26,7 +26,7 @@
             <img
               src="../../assets/images/style.jpg"
               alt="Серия «Vanity»"
-              class="img-responsive mauto"
+              class="img-thumbnail mauto"
             />
           </router-link>
         </div>
@@ -35,7 +35,7 @@
             <img
               src="../../assets/images/saloon.jpg"
               alt="Серия «Salon Elements»"
-              class="img-responsive mauto"
+              class="img-thumbnail mauto"
             />
           </router-link>
         </div>
@@ -44,7 +44,7 @@
             <img
               src="../../assets/images/everyday.jpg"
               alt="Серия «Everyday»"
-              class="img-responsive mauto"
+              class="img-thumbnail mauto"
             />
           </router-link>
         </div>
@@ -53,7 +53,7 @@
             <img
               src="../../assets/images/naturaluxury.jpg"
               alt="Серия «Naturaluxury Everyday»"
-              class="img-responsive mauto"
+              class="img-thumbnail mauto"
             />
           </router-link>
         </div>

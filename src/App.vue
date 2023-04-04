@@ -9,8 +9,8 @@
         class="navbar-toggler"
         type="button"
         data-bs-toggle="collapse"
-        data-bs-target="#navbarsExample09"
-        aria-controls="navbarsExample09"
+        data-bs-target="#navbarToggleExternalContent"
+        aria-controls="navbarToggleExternalContent"
         aria-expanded="false"
         aria-label="Toggle navigation"
       >

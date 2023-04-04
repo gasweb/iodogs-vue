@@ -1,5 +1,5 @@
 <template>
-  <div class="collapse navbar-collapse">
+  <div id="navbarToggleExternalContent" class="collapse navbar-collapse p-4">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item dropdown">
         <a

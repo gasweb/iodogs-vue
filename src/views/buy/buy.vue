@@ -19,9 +19,7 @@
     <h1 class="text-center">Розничные продажи</h1>
     <div class="buy">
       <h2 class="text-center">Интернет Магазин Pet Gear</h2>
-      <h3 class="text-center">
-        Доставка по Москве, отправка по всей территории России, в Беларусь и Казахстан
-      </h3>
+      <h3 class="text-center">Доставка по Москве, отправка по всей территории России</h3>
       <ul class="list-unstyled list-inline center">
         <li>
           <a
@@ -38,22 +36,19 @@
         </li>
       </ul>
     </div>
-    <hr />
-    <div class="">
-      <h3 class="text-center">Представительство в городе Пермь</h3>
-
-      <dl class="dl-horizontal">
-        <dt><span class="glyphicon glyphicon-map-marker"></span></dt>
-        <dd>Пермь</dd>
-        <dt><span class="glyphicon glyphicon-user"></span></dt>
-        <dd>Алёна Малинина</dd>
-        <dt><span class="glyphicon glyphicon-phone"></span></dt>
-        <dd><a href="tel:+79194970414">+7(919)497-04-14</a></dd>
-        <dt><span class="glyphicon glyphicon-envelope"></span></dt>
-        <dd><a href="mailto:malininaalena@mail.ru">malininaalena@mail.ru</a></dd>
-        <dt><span class="glyphicon glyphicon-link"></span></dt>
-        <dd><a href="http://shop.dog59.ru/" target="_blank">http://shop.dog59.ru/</a></dd>
-      </dl>
+    <div class="buy">
+      <h2 class="text-center">Интернет-зоомагазин Petcetera</h2>
+      <h3 class="text-center">Доставка по Москве, отправка по всей территории России</h3>
+      <ul class="list-unstyled list-inline center">
+        <li>
+          <a
+            class="btn btn-success"
+            href="https://petcetera.ru/catalog/kosmetika/kosmetika_isle_of_dogs/"
+            target="_blank"
+            ><span class="glyphicon glyphicon-shopping-cart"></span> Перейти в магазин</a
+          >
+        </li>
+      </ul>
     </div>
   </div>
 </template>
